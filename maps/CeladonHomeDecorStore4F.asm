@@ -102,7 +102,7 @@ BigDollClerkNoMoneyText:
 
 BigDollClerkSellLaprasText:
 	text "Clerk: You like"
-	line "the Lapras doll?"
+	line "the #mon doll?"
 
 	para "It'll cost you"
 	line "¥300,000."
@@ -110,7 +110,7 @@ BigDollClerkSellLaprasText:
 
 BigDollClerkSellSnorlaxText:
 	text "Clerk: You like"
-	line "the Snorlax doll?"
+	line "the #mon doll?"
 
 	para "It'll cost you"
 	line "¥200,000."
@@ -118,7 +118,7 @@ BigDollClerkSellSnorlaxText:
 
 BigDollClerkSellOnixText:
 	text "Clerk: You like"
-	line "the Onix doll?"
+	line "the #mon doll?"
 
 	para "It'll cost you"
 	line "¥250,000."
@@ -126,47 +126,47 @@ BigDollClerkSellOnixText:
 
 BoughtBigLaprasDollText:
 	text "<PLAYER> bought"
-	line "Big Lapras Doll."
+	line "Big #mon Doll."
 	done
 
 BigLaprasDollSentText:
-	text "Big Lapras Doll"
+	text "Big #mon Doll"
 	line "was sent home."
 	done
 
 BoughtBigSnorlaxDollText:
 	text "<PLAYER> bought"
-	line "Big Snorlax Doll."
+	line "Big #mon Doll."
 	done
 
 BigSnorlaxDollSentText:
-	text "Big Snorlax Doll"
+	text "Big #mon Doll"
 	line "was sent home."
 	done
 
 BoughtBigOnixDollText:
 	text "<PLAYER> bought"
-	line "Big Onix Doll."
+	line "Big #mon Doll."
 	done
 
 BigOnixDollSentText:
-	text "Big Onix Doll"
+	text "Big #mon Doll"
 	line "was sent home."
 	done
 
 BigLaprasDollText:
 	text "It's a jumbo-size"
-	line "Lapras Doll!"
+	line "#mon Doll!"
 	done
 
 BigSnorlaxDollText:
 	text "It's a jumbo-size"
-	line "Snorlax Doll!"
+	line "#mon Doll!"
 	done
 
 BigOnixDollText:
 	text "It's a jumbo-size"
-	line "Onix Doll!"
+	line "#mon Doll!"
 	done
 
 CeladonHomeDecorStore4FDirectoryText:

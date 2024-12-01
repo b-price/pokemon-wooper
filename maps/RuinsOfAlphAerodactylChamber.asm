@@ -113,7 +113,7 @@ RuinsOfAlphAerodactylChamberWallPatternLeftText:
 	done
 
 RuinsOfAlphChambersItsUnownText:
-	text "It's Unown text!"
+	text "It's #mon text!"
 	done
 
 RuinsOfAlphAerodactylChamberWallHoleText:

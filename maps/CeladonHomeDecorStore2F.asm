@@ -94,7 +94,7 @@ CeladonHomeDecorStore2FClerkScript:
 	db 4 ; items
 	db "Pink      ¥62000@"
 	db "PolkaDot  ¥94000@"
-	db "Pikachu  ¥126000@"
+	db "Wooper    ¥126000@"
 	db "Cancel@"
 
 CeladonHomeDecorStore2FClerkText:
@@ -125,11 +125,11 @@ PolkaDotBedSentText:
 
 BoughtPikachuBedText:
 	text "<PLAYER> bought"
-	line "Pikachu Bed."
+	line "#mon Bed."
 	done
 
 PikachuBedSentText:
-	text "Pikachu Bed"
+	text "#mon Bed"
 	line "was sent home."
 	done
 
@@ -148,7 +148,7 @@ CeladonHomeDecorStore2FPokefanfText:
 	line "cost more than"
 	cont "generic ones."
 
-	para "But the Pikachu"
+	para "But the #mon"
 	line "Bed is so cute…"
 	done
 

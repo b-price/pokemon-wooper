@@ -217,7 +217,7 @@ Route10Zapdos:
 	end
 
 ZapdosText:
-	text "Gyaoo!"
+	text "Pauuu!"
 	done
 
 Route10NorthLawrenceGreetingText:
@@ -237,7 +237,7 @@ Route10NorthLawrenceGreetingText:
 
 Route10NorthLawrenceZapdosText:
 	text "Lawrence: That's"
-	line "a Zapdos."
+	line "a #mon."
 
 	para "It must have been"
 	line "attracted by the"
@@ -258,7 +258,7 @@ Route10NorthLawrenceZapdosText:
 	done
 
 Route10NorthLawrenceFlyText:
-	text "Lawrence: Zapdos,"
+	text "Lawrence: #mon,"
 	line "Fly!"
 	done
 
@@ -267,7 +267,7 @@ Route10NorthLawrenceSpeechText:
 	line "again, <PLAYER>."
 
 	para "So you wanted that"
-	line "Zapdos after all."
+	line "#mon after all."
 
 	para "I was starting"
 	line "to think you"
@@ -283,7 +283,7 @@ Route10NorthLawrenceSpeechText:
 	line "knowledge and"
 
 	para "resources, have"
-	line "not found Moltres…"
+	line "not found #mon…"
 
 	para "Why have you"
 	line "succeeded where I"

@@ -131,7 +131,7 @@ BeautyRachaelBeatenText:
 
 SafariZoneNorthCooltrainerFText:
 	text "I caught a"
-	line "Chansey!"
+	line "#mon!"
 
 	para "I'm so lucky!"
 	line "I'm going to teach"

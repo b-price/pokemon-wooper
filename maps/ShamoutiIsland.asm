@@ -38,7 +38,7 @@ ShamoutiIslandVileplumeScript:
 	jumpthistext
 
 .VileplumeText:
-	text "Vileplume is fast"
+	text "#mon is fast"
 	line "asleep…"
 	done
 
@@ -66,7 +66,7 @@ ShamoutiIslandVileplumeScript:
 	done
 
 .WokeUpText:
-	text "Vileplume woke up!"
+	text "#mon woke up!"
 	done
 
 ShamoutiIslandYoungsterScript:
@@ -82,13 +82,13 @@ ShamoutiIslandYoungsterScript:
 	jumpthisopenedtext
 
 .Text2:
-	text "A shiny Pikachu"
+	text "A shiny #mon"
 	line "would be a real"
-	cont "Pikablu."
+	cont "wonder."
 
 	para "I've never found"
 	line "one, but I'm happy"
-	cont "with my Marill."
+	cont "with my #mon."
 	done
 
 .Text1:
@@ -98,7 +98,7 @@ ShamoutiIslandYoungsterScript:
 	done
 
 ShamoutiIslandPikabluText:
-	text "Pikablu: Rill!"
+	text "#mon: Ooop!"
 	done
 
 ShamoutiIslandFisherText:

@@ -89,7 +89,7 @@ PewterCityCooltrainermText:
 	done
 
 PewterCityBugCatcherText:
-	text "At night, Clefairy"
+	text "At night, #mon"
 	line "come out to play"
 	cont "at Mt.Moon."
 

@@ -95,9 +95,9 @@ PosterClerkScript:
 .MenuData2:
 	db $80 ; flags
 	db 4 ; items
-	db "Marill      ¥3200@"
-	db "Clefairy    ¥4800@"
-	db "Pikachu     ¥6400@"
+	db "Round Woop  ¥3200@"
+	db "Moon Woop   ¥4800@"
+	db "Elec Woop   ¥6400@"
 	db "Cancel@"
 
 PosterClerkText:
@@ -117,31 +117,31 @@ PosterClerkAlreadyBoughtText:
 
 BoughtMarillPosterText:
 	text "<PLAYER> bought"
-	line "Marill Poster."
+	line "#mon Poster."
 	done
 
 MarillPosterSentText:
-	text "Marill Poster"
+	text "#mon Poster"
 	line "was sent home."
 	done
 
 BoughtClefairyPosterText:
 	text "<PLAYER> bought"
-	line "Clefairy Poster."
+	line "#mon Poster."
 	done
 
 ClefairyPosterSentText:
-	text "Clefairy Poster"
+	text "#mon Poster"
 	line "was sent home."
 	done
 
 BoughtPikachuPosterText:
 	text "<PLAYER> bought"
-	line "Pikachu Poster."
+	line "#mon Poster."
 	done
 
 PikachuPosterSentText:
-	text "Pikachu Poster"
+	text "#mon Poster"
 	line "was sent home."
 	done
 

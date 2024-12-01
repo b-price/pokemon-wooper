@@ -72,14 +72,14 @@ CeladonUniversityClassroom3ChildText:
 
 CeladonUniversityClassroom3LassText:
 	text "My instructor said"
-	line "that Magneton is a"
+	line "that #mon is a"
 
 	para "union of three"
-	line "Magnemite, but"
+	line "#mon, but"
 
-	para "Magneton is 10"
+	para "#mon is 10"
 	line "times heavier than"
-	cont "Magnemite."
+	cont "#mon."
 
 	para "How does that"
 	line "work?!"
@@ -88,7 +88,7 @@ CeladonUniversityClassroom3LassText:
 CeladonUniversityClassroom3Super_nerdText:
 	text "Have you heard of"
 	line "the Electric-type"
-	cont "#mon Mareep?"
+	cont "#mon #mon?"
 
 	para "Its name derives"
 	line "from the unit of"
@@ -108,7 +108,7 @@ CeladonUniversityClassroom3BlackboardText:
 	para "“…#mon can be"
 	line "divided into 14"
 	cont "“Egg groups”,"
-	cont "plus Ditto."
+	cont "plus #mon."
 
 	para "Baby #mon can-"
 	line "not breed."

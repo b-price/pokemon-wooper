@@ -102,7 +102,7 @@ SinjohRuinsHouseGrampsText:
 	line "are here."
 
 	para "Do you want my"
-	line "Abra to Teleport"
+	line "Woop to Teleport"
 	cont "you back home?"
 	done
 
@@ -118,7 +118,7 @@ SinjohRuinsHouseGrampsNoText:
 	done
 
 SinjohRuinsHouseAbraText:
-	text "Abra: Aabra…"
+	text "#mon: Ooop…"
 	done
 
 SinjohRuinsHouseCynthiaChallengeText:

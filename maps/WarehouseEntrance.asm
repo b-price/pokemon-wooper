@@ -438,7 +438,7 @@ PokemaniacDonaldBeatenText:
 	done
 
 CosplayerClaraSeenText:
-	text "Pix! Vul, pix! ♥"
+	text "Pa! Ooo, pa! ♥"
 	done
 
 CosplayerClaraBeatenText:

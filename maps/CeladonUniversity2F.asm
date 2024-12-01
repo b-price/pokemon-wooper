@@ -187,7 +187,7 @@ CeladonUniversity2FMagikarpSign:
 	closepokepic
 	jumpthistext
 
-	text "A Magikarp is"
+	text "A #mon is"
 	line "swimming around."
 	done
 
@@ -200,5 +200,5 @@ CeladonUniversity2FCuboneSign:
 
 	text "It's the Thick Club"
 	line "and skull helmet"
-	cont "of a Cubone."
+	cont "of a #mon."
 	done

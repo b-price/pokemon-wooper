@@ -222,13 +222,13 @@ SurfGuyElegantKimonoGirlsText:
 	done
 
 RhydonText:
-	text "Rhydon: Gugooh"
-	line "gugogooh!"
+	text "#mon: Oopa"
+	line "oopapa!"
 	done
 
 DanceTheatreCooltrainerMText:
 	text "That man's always"
-	line "with his Rhydon."
+	line "with his #mon."
 
 	para "Says he wants a"
 	line "#mon that can"
@@ -260,9 +260,9 @@ DanceTheatreGrannyText:
 	done
 
 DanceTheatreLadyText:
-	text "Eevee can evolve"
-	line "into Leafeon, Gla-"
-	cont "ceon, or Sylveon,"
+	text "#mon can evolve"
+	line "into other"
+	cont "#mon,"
 
 	para "but none of the"
 	line "Kimono Girls use"

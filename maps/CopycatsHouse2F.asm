@@ -239,7 +239,7 @@ CopycatFoundLostItemScript:
 
 .FoundDollText:
 	text "Copycat: Yay!"
-	line "That's my Clefairy"
+	line "That's my #mon"
 	cont "# Doll!"
 
 	para "See the tear where"
@@ -314,7 +314,7 @@ CopycatsDodrioScript:
 	done
 
 .Text1:
-	text "Dodrio: Gii giii!"
+	text "#mon: Pa paa!"
 	done
 
 CopycatsHouse2FDollText:
@@ -325,5 +325,5 @@ CopycatsHouse2FDollText:
 	done
 
 CopycatsHouse2FDittoText:
-	text "Ditto: Dii…"
+	text "#mon: Ooo…"
 	done

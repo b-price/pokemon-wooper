@@ -218,7 +218,7 @@ Route30_MikeysPidgeyAttacksMovement:
 	step_end
 
 Text_UseTackle:
-	text "Go, Rattata!"
+	text "Go, #mon!"
 
 	para "Tackle!"
 	done

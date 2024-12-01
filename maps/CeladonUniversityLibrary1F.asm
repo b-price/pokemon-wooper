@@ -132,7 +132,7 @@ CeladonUniversityLibrary1FBookText:
 	text "It's a book about"
 	line "flower arranging."
 
-	para "A Sunflora is on"
+	para "A #mon is on"
 	line "the cover."
 	done
 
@@ -162,7 +162,7 @@ CeladonUniversityLibrary1FBookshelf1Text:
 
 	para "smile are posing"
 	line "happily alongside"
-	cont "an Oddish."
+	cont "a #mon."
 	done
 
 CeladonUniversityLibrary1FBookshelf2Text:
@@ -194,9 +194,9 @@ CeladonUniversityLibrary1FBookshelf4Text:
 	line "#mon palin-"
 	cont "dromes."
 
-	para "There's an Eevee"
-	line "and a Girafarig"
-	cont "on the cover."
+	para "But #mon"
+	line "isn't a"
+	cont "palindrome…"
 	done
 
 CeladonUniversityLibrary1FBookshelf5Text:
@@ -217,7 +217,7 @@ CeladonUniversityLibrary1FBookshelf6Text:
 	cont "that can't tell"
 	cont "lies."
 
-	para "“Pinpokéo” is"
+	para "“Woopoccio” is"
 	line "written on the"
 	cont "cover."
 	done
@@ -262,9 +262,9 @@ CeladonUniversityLibrary1FBookshelf10Text:
 	line "full of #mon-"
 	cont "themed recipes!"
 
-	para "Jigglypuff Jello,"
-	line "Charmander Chut-"
-	cont "ney, Munchlax"
+	para "#mon Jello,"
+	line "#mon Chut-"
+	cont "ney, #mon"
 	cont "Snacks…"
 	done
 

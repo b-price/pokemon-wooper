@@ -275,7 +275,7 @@ CeladonGameCornerGrampsText:
 	text "Hmmm… The odds are"
 	line "surely better for"
 
-	para "Pikachu's line,"
+	para "#mon's line,"
 	line "but… What to do?"
 	done
 

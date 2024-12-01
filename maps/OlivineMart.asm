@@ -25,7 +25,7 @@ OlivineMartCooltrainerFText:
 	done
 
 OlivineMartLassText:
-	text "My Butterfree came"
+	text "My #mon came"
 	line "from my boyfriend"
 	cont "overseas."
 

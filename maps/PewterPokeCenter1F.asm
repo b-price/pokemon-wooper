@@ -38,8 +38,8 @@ PokemonJournalBrockScript:
 	done
 
 PewterJigglypuffText:
-	text "Jigglypuff:"
-	line "♪ Puu pupuu. ♪"
+	text "#mon:"
+	line "♪ Oop papau. ♪"
 	done
 
 PewterPokeCenter1FTeacherText:
@@ -57,7 +57,7 @@ PewterPokeCenter1FChildText:
 	text "Most #mon get"
 	line "drowsy if they"
 
-	para "hear a Jigglypuff"
+	para "hear a #mon"
 	line "singing."
 
 	para "There are several"

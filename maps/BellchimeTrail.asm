@@ -160,7 +160,7 @@ BellchimeTrailValerieScript:
 .IntroText:
 	text "If it isn't the"
 	line "trainer who faced"
-	cont "Suicune…"
+	cont "#mon…"
 
 	para "I am Valerie."
 	line "I come to this"

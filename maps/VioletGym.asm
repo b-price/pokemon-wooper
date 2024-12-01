@@ -258,9 +258,9 @@ VioletGymGuyFalknerAwayText:
 	cont "right now."
 
 	para "He's in Dark Cave"
-	line "taming an Ursa-"
+	line "taming an Woop-"
 
-	para "ring that attacked"
+	para "er that attacked"
 	line "a young trainer."
 
 	para "Come back later."

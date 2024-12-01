@@ -92,13 +92,13 @@ GenericTrainerSwimmermEsteban:
 
 	text "We called our"
 	line "teacher Professor"
-	cont "Poliwhirl!"
+	cont "#mon!"
 	done
 
 .SeenText:
 	text "My swimming teach-"
 	line "er had a face just"
-	cont "like a Poliwhirl."
+	cont "like a #mon."
 	done
 
 .BeatenText:

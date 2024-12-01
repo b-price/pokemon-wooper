@@ -220,7 +220,7 @@ BurnedTower1FEusineIntroText:
 
 	para "I'm on the trail"
 	line "of a #mon named"
-	cont "Suicune."
+	cont "#mon."
 
 	para "And you are…?"
 
@@ -228,7 +228,7 @@ BurnedTower1FEusineIntroText:
 	line "meet you!"
 
 	para "I heard rumors"
-	line "that Suicune is in"
+	line "that #mon is in"
 
 	para "this Burned Tower,"
 	line "so I came to look."
@@ -239,7 +239,7 @@ BurnedTower1FEusineIntroText:
 
 BurnedTower1FEusineText:
 	text "Eusine: I heard"
-	line "that Suicune is in"
+	line "that #mon is in"
 
 	para "this Burned Tower,"
 	line "so I came to look."
@@ -255,9 +255,7 @@ BurnedTower1FMortyText:
 	para "study what are"
 	line "said to be the"
 
-	para "legendary #mon"
-	line "--Suicune, Entei"
-	cont "and Raikou."
+	para "legendary #mon."
 
 	para "Eusine is here, so"
 	line "I've decided to"

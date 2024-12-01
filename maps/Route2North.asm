@@ -45,16 +45,16 @@ Bug_maniacEdBeatenText:
 	done
 
 Route2NorthCooltrainermText:
-	text "Diglett's Cave is"
+	text "#mon's Cave is"
 	line "just a dead end."
 
 	para "The Vermilion City"
 	line "exit is blocked"
 
 	para "by a sleeping"
-	line "Snorlax."
+	line "#mon."
 	done
 
 Route2DiglettsCaveSignText:
-	text "Diglett's Cave"
+	text "#mon's Cave"
 	done

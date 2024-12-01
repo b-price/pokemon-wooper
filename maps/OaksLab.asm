@@ -496,7 +496,7 @@ OaksLabPCText:
 ProfOakEeveeDollTradeText:
 	text "Oak: Oh, are you"
 	line "admiring my"
-	cont "Eevee Doll?"
+	cont "#mon Doll?"
 
 	para "I'll trade it"
 	line "to you for an"
@@ -521,11 +521,11 @@ NoTradeText:
 
 EeveeDollText:
 	text "<PLAYER> received"
-	line "Eevee Doll."
+	line "#mon Doll."
 	done
 
 EeveeDollSentText:
-	text "Eevee Doll"
+	text "#mon Doll"
 	line "was sent home."
 	done
 

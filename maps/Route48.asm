@@ -134,9 +134,9 @@ Route48JessieJamesSeenText:
 	line "twerp!"
 
 	para "You know what"
-	line "#mon lives in"
+	line "lives in"
 	cont "that forest?"
-	cont "Pikachu!"
+	cont "#mon!"
 
 	para "The boss will be"
 	line "pleased if we"
@@ -201,7 +201,7 @@ Route48NurseText1:
 	para "You drove away"
 	line "Team Rocket"
 	cont "and saved the"
-	cont "Pikachu!"
+	cont "#mon!"
 
 	para "Thank you so"
 	line "much!"

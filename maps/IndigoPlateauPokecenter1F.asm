@@ -491,7 +491,7 @@ IndigoPlateauTeleportGuyScript:
 	para "If you need to"
 	line "train some more,"
 
-	para "my Abra can help"
+	para "my Woop can help"
 	line "you."
 
 	para "It can Teleport"
@@ -513,7 +513,7 @@ IndigoPlateauTeleportGuyScript:
 	done
 
 IndigoPlateauAbraText:
-	text "Abra: Aabra…"
+	text "#mon: Papaa…"
 	done
 
 IndigoPlateauCooltrainermText:

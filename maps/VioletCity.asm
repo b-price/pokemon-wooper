@@ -220,7 +220,7 @@ VioletCityCooltrainerM1Text:
 	done
 
 VioletCityCooltrainerFText:
-	text "Bellsprout is a"
+	text "#mon is a"
 	line "popular #mon"
 	cont "in this town."
 

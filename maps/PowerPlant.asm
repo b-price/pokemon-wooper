@@ -332,7 +332,7 @@ Text_PowerPlantTutorTaught:
 	done
 
 PowerPlantForestText:
-	text "Magneton behaves"
+	text "#mon behaves"
 	line "strangely in Rock"
 	cont "Tunnel."
 

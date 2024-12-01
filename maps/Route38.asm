@@ -260,7 +260,7 @@ GenericTrainerBeautyValencia:
 GenericTrainerBeautyOlivia:
 	generictrainer BEAUTY, OLIVIA, EVENT_BEAT_BEAUTY_OLIVIA, BeautyOliviaSeenText, BeautyOliviaBeatenText
 
-	text "Moomoo Milk is"
+	text "Woowoo Milk is"
 	line "good for beauty"
 	cont "and health."
 
@@ -321,7 +321,7 @@ LassDanaMoomooMilkText:
 	text "I know something"
 	line "good!"
 
-	para "Moomoo Farm's milk"
+	para "Woowoo Farm's milk"
 	line "is famous for its"
 	cont "flavor."
 	done
@@ -359,7 +359,7 @@ BeautyOliviaSeenText:
 	done
 
 BeautyOliviaBeatenText:
-	text "We drink Moomoo"
+	text "We drink Woowoo"
 	line "Milk every day."
 	done
 

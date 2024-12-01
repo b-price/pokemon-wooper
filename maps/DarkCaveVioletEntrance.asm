@@ -120,12 +120,12 @@ DarkCaveVioletEntranceMovementData_FalknerLeave:
 
 DarkCaveVioletEntranceFalknerAttackText:
 	text "Falkner: Use Wing"
-	line "Attack, Pidgeotto!"
+	line "Attack, #mon!"
 	done
 
 DarkCaveVioletEntranceFalknerReturnText:
 	text "Good job,"
-	line "Pidgeotto."
+	line "#mon."
 	done
 
 DarkCaveVioletEntranceFalknerIntroText:
@@ -147,7 +147,7 @@ DarkCaveVioletEntranceFalknerExplanationText:
 	para "I don't explore"
 	line "caves for fun,"
 
-	para "but that Ursaring"
+	para "but that #mon"
 	line "was attacking"
 
 	para "trainers too weak"

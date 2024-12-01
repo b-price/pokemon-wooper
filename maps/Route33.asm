@@ -155,7 +155,7 @@ HikerAnthony1AfterText:
 
 HikerAnthonyDunsparceText:
 	text "Hey, did you get a"
-	line "Dunsparce?"
+	line "#mon?"
 
 	para "I caught one too."
 

@@ -465,14 +465,14 @@ KurtsHouseKurtMakingBallsMustWaitText:
 	para "Anyway, they're at"
 	line "the well, cutting"
 
-	para "off SlowpokeTails"
+	para "off #monTails"
 	line "for sale!"
 
 	para "So I'm going to"
 	line "go give them a"
 	cont "lesson in pain!"
 
-	para "Hang on, Slowpoke!"
+	para "Hang on, #mon!"
 	line "Old Kurt is on his"
 	cont "way!"
 	done
@@ -602,7 +602,7 @@ KurtsHouseKurtThisBallStartedToShakeText:
 	done
 
 KurtsGranddaughterSlowpokeGoneText:
-	text "The Slowpoke are"
+	text "The #mon are"
 	line "gone… Were they"
 
 	para "taken away by bad"
@@ -615,7 +615,7 @@ KurtsGranddaughterLonelyText:
 	done
 
 KurtsGranddaughterSlowpokeBackText:
-	text "The Slowpoke my"
+	text "The #mon my"
 	line "dad gave me came"
 
 	para "back! Its tail is"
@@ -629,7 +629,7 @@ KurtsGranddaughterDadText:
 
 	para "I have to stay"
 	line "home with Grandpa"
-	cont "and Slowpoke."
+	cont "and #mon."
 	done
 
 KurtsGranddaughterHelpText:
@@ -655,7 +655,7 @@ KurtsGranddaughterGSBallText:
 	done
 
 KurtsHouseSlowpokeText:
-	text "Slowpoke: …"
+	text "#mon: …"
 	line "Yawn?"
 	done
 

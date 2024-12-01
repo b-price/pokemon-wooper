@@ -97,9 +97,9 @@ CeladonHomeDecorStore1FClerkScript:
 .MenuData2:
 	db $80 ; flags
 	db 4 ; items
-	db "Bulbasaur  ¥16000@"
-	db "Charmander ¥16000@"
-	db "Squirtle   ¥16000@"
+	db "Green Woop ¥16000@"
+	db "Red Woop   ¥16000@"
+	db "Blue Woop  ¥16000@"
 	db "Cancel@"
 
 CeladonHomeDecorStore1FReceptionistText:
@@ -119,31 +119,31 @@ CeladonHomeDecorStore1FClerkText:
 
 BoughtBulbasaurDollText:
 	text "<PLAYER> bought"
-	line "Bulbasaur Doll."
+	line "Wooper Doll."
 	done
 
 BulbasaurDollSentText:
-	text "Bulbasaur Doll"
+	text "Wooper Doll"
 	line "was sent home."
 	done
 
 BoughtCharmanderDollText:
 	text "<PLAYER> bought"
-	line "Charmander Doll."
+	line "Wooper Doll."
 	done
 
 CharmanderDollSentText:
-	text "Charmander Doll"
+	text "Wooper Doll"
 	line "was sent home."
 	done
 
 BoughtSquirtleDollText:
 	text "<PLAYER> bought"
-	line "Squirtle Doll."
+	line "Wooper Doll."
 	done
 
 SquirtleDollSentText:
-	text "Squirtle Doll"
+	text "Wooper Doll"
 	line "was sent home."
 	done
 
@@ -159,17 +159,17 @@ CeladonHomeDecorStore1FAlreadyBoughtText:
 
 CeladonHomeDecorStore1FBulbasaurDollText:
 	text "It's a cute"
-	line "Bulbasaur doll!"
+	line "Wooper doll!"
 	done
 
 CeladonHomeDecorStore1FCharmanderDollText:
 	text "It's a tough"
-	line "Charmander doll!"
+	line "Wooper doll!"
 	done
 
 CeladonHomeDecorStore1FSquirtleDollText:
 	text "It's a cool"
-	line "Squirtle doll!"
+	line "Wooper doll!"
 	done
 
 CeladonHomeDecorStore1FCooltrainerfText:

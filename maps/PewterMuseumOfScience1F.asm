@@ -236,7 +236,7 @@ KabutopsFossilSignpostScript:
 	closepokepic
 	jumpthistext
 
-	text "Kabutops Fossil"
+	text "#mon Fossil"
 	line "(Dome)"
 
 	para "A primitive and"
@@ -250,7 +250,7 @@ OmastarFossilSignpostScript:
 	closepokepic
 	jumpthistext
 
-	text "Omastar Fossil"
+	text "#mon Fossil"
 	line "(Helix)"
 
 	para "A primitive and"
@@ -264,7 +264,7 @@ AerodactylFossilSignpostScript:
 	closepokepic
 	jumpthistext
 
-	text "Aerodactyl Fossil"
+	text "#mon Fossil"
 
 	para "A primitive and"
 	line "rare #mon."

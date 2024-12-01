@@ -58,5 +58,5 @@ YellowForestGateNurseHealedText:
 	done
 
 YellowForestGateChanseyText:
-	text "Chansey: Sii!"
+	text "#mon: Paa!"
 	done

@@ -44,15 +44,6 @@ GoldenrodDeptStore4FGameboyKidText:
 
 	para "when they hold"
 	line "a certain item."
-
-	para "I know of four:"
-	line "Poliwhirl, Onix,"
-
-	para "Slowpoke and, um,"
-	line "Scyther."
-
-	para "I heard there are"
-	line "others too."
 	done
 
 GoldenrodDeptStore4FDirectoryText:

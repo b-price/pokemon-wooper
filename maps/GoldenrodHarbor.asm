@@ -165,9 +165,9 @@ GoldenrodHarborPokefanmScript:
 .MenuData2:
 	db $80 ; flags
 	db 4 ; items
-	db "Magikarp    ¥1400@"
-	db "Marill      ¥5600@"
-	db "Octillery  ¥11200@"
+	db "Flop Woop   ¥1400@"
+	db "Round Woop  ¥5600@"
+	db "Gun Woop   ¥11200@"
 	db "Cancel@"
 
 GoldenrodHarborYoungsterScript:
@@ -341,31 +341,31 @@ GoldenrodHarborDollVendorText:
 
 GoldenrodHarborMagikarpDollText:
 	text "<PLAYER> bought"
-	line "Magikarp Doll."
+	line "#mon Doll."
 	done
 
 GoldenrodHarborMagikarpDollSentText:
-	text "Magikarp Doll"
+	text "#mon Doll"
 	line "was sent home."
 	done
 
 GoldenrodHarborMarillDollText:
 	text "<PLAYER> bought"
-	line "Marill Doll."
+	line "#mon Doll."
 	done
 
 GoldenrodHarborMarillDollSentText:
-	text "Marill Doll"
+	text "#mon Doll"
 	line "was sent home."
 	done
 
 GoldenrodHarborOctilleryDollText:
 	text "<PLAYER> bought"
-	line "Octillery Doll."
+	line "#mon Doll."
 	done
 
 GoldenrodHarborOctilleryDollSentText:
-	text "Octillery Doll"
+	text "#mon Doll"
 	line "was sent home."
 	done
 

@@ -35,7 +35,7 @@ GenericTrainerGruntM29:
 	text "Sure, we've been"
 	line "hacking the tails"
 
-	para "off Slowpoke and"
+	para "off #mon and"
 	line "selling them."
 
 	para "Everything we do"
@@ -98,7 +98,7 @@ GenericTrainerGruntM2:
 GenericTrainerGruntF1:
 	generictrainer GRUNTF, 1, EVENT_BEAT_ROCKET_GRUNTF_1, GruntF1SeenText, GruntF1BeatenText
 
-	text "SlowpokeTails"
+	text "#monTails"
 	line "grow back fast!"
 
 	para "What's wrong with"
@@ -225,7 +225,7 @@ GruntF1BeatenText:
 	done
 
 SlowpokeWellB1FSlowpokeWithMailText:
-	text "A Slowpoke with"
+	text "A #mon with"
 	line "its tail cut off…"
 
 	para "Huh? It has Mail."
@@ -240,12 +240,12 @@ SlowpokeWellB1FSlowpokeMailText:
 	line "after the house"
 
 	para "with Grandpa and"
-	line "Slowpoke."
+	line "#mon."
 
 	para "Love, Dad"
 	done
 
 SlowpokeWellB1FTaillessSlowpokeText:
-	text "A Slowpoke with"
+	text "A #mon with"
 	line "its tail cut off…"
 	done

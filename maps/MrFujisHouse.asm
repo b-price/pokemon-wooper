@@ -40,13 +40,13 @@ MrFujisHouseLassText:
 	done
 
 MrFujisPsyduckText:
-	text "Psyduck: Gu-guwa?"
+	text "#mon: Oopa?"
 	done
 
 MrFujisNidorinoText:
-	text "Nidorino: Gyun!"
+	text "#mon: Ooop!"
 	done
 
 MrFujisPidgeyText:
-	text "Pidgey: Pijji!"
+	text "#mon: Oopapa!"
 	done

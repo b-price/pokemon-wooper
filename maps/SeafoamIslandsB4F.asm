@@ -125,7 +125,7 @@ SeafoamIslandsArticuno:
 	end
 
 ArticunoText:
-	text "Gyaoo!"
+	text "Pauu!"
 	done
 
 SeafoamIslandsB4FLawrenceSpeechText:
@@ -144,7 +144,7 @@ SeafoamIslandsB4FLawrenceSpeechText:
 	line "knowledge and"
 
 	para "resources, have"
-	line "not found Moltres…"
+	line "not found #mon…"
 
 	para "Why have you"
 	line "succeeded where I"

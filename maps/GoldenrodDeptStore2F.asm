@@ -39,7 +39,7 @@ GoldenrodDeptStore2FYoungsterText:
 	done
 
 GoldenrodDeptStore2FCooltrainerFText:
-	text "I got my Abra at"
+	text "I got my Woop at"
 	line "the Game Corner."
 
 	para "Now it's my best"

@@ -171,8 +171,8 @@ EcruteakShrineInsideSageText:
 	text "Most of us here at"
 	line "the shrine train"
 
-	para "Hoothoot and"
-	line "Sentret to battle"
+	para "#mon and"
+	line "#mon to battle"
 	cont "ghosts."
 
 	para "Rei is unique."

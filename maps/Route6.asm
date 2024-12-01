@@ -26,7 +26,7 @@ GenericTrainerPokefanmRex:
 	generictrainer POKEFANM, REX, EVENT_BEAT_POKEFANM_REX, PokefanmRexSeenText, PokefanmRexBeatenText
 
 	text "Look how adorable"
-	line "my Phanpy acts!"
+	line "my #mon acts!"
 
 	para "Isn't it cute"
 	line "enough to make"
@@ -34,20 +34,20 @@ GenericTrainerPokefanmRex:
 	done
 
 PokefanmRexSeenText:
-	text "My Phanpy is the"
+	text "My #mon is the"
 	line "cutest in the"
 	cont "world."
 	done
 
 PokefanmRexBeatenText:
-	text "My Phanpy!"
+	text "My #mon!"
 	done
 
 GenericTrainerPokefanmAllan:
 	generictrainer POKEFANM, ALLAN, EVENT_BEAT_POKEFANM_ALLAN, PokefanmAllanSeenText, PokefanmAllanBeatenText
 
 	text "Look how adorable"
-	line "my Teddiursa acts!"
+	line "my #mon acts!"
 
 	para "Isn't it cute"
 	line "enough to make"
@@ -55,13 +55,13 @@ GenericTrainerPokefanmAllan:
 	done
 
 PokefanmAllanSeenText:
-	text "My Teddiursa is"
+	text "My #mon is"
 	line "the cutest in the"
 	cont "world."
 	done
 
 PokefanmAllanBeatenText:
-	text "My Teddiursa!"
+	text "My #mon!"
 	done
 
 GenericTrainerTwinsDayanddani1:
@@ -164,12 +164,12 @@ OfficerfJennyScript:
 	text "You don't look"
 	line "familiar."
 
-	para "Squirtle Squad,"
+	para "#mon Squad,"
 	line "attack!"
 	done
 
 .BeatenText:
-	text "Squirtle Squad,"
+	text "#mon Squad,"
 	line "retreat…"
 	done
 

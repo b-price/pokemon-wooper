@@ -26,16 +26,16 @@ FishingDudeText:
 
 	para "He dreams about"
 	line "seeing the world's"
-	cont "greatest Magikarp."
+	cont "greatest #mon."
 
 	para "If you don't mind,"
 	line "could you show him"
 
-	para "any Magikarp you"
+	para "any #mon you"
 	line "catch?"
 
 	para "Who knows, you may"
-	line "catch the Magikarp"
+	line "catch the #mon"
 	cont "of his dreams."
 	done
 

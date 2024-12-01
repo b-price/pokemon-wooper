@@ -422,7 +422,7 @@ GenericTrainerCooltrainermAllen:
 
 FisherWilton1SeenText:
 	text "Aack! You made me"
-	line "lose a Poliwag!"
+	line "lose a #mon!"
 
 	para "What are you going"
 	line "to do about it?"
@@ -434,7 +434,7 @@ FisherWilton1BeatenText:
 	done
 
 FisherWiltonHugePoliwagText_Imperial:
-	text "That Poliwag that"
+	text "That #mon that"
 	line "got away…"
 	cont "It was huge."
 
@@ -443,7 +443,7 @@ FisherWiltonHugePoliwagText_Imperial:
 	done
 
 FisherWiltonHugePoliwagText_Metric:
-	text "That Poliwag that"
+	text "That #mon that"
 	line "got away…"
 	cont "It was huge."
 
@@ -481,10 +481,10 @@ Bird_keeperVance1BeatenText:
 	done
 
 BirdKeeperVanceLegendaryBirdsText:
-	text "Articuno, Zapdos"
-	line "and Moltres are"
+	text "It is said that"
+	line "there are"
 
-	para "the three legend-"
+	para "three legend-"
 	line "ary bird #mon."
 
 	para "I heard there are"

@@ -185,7 +185,7 @@ RockyBeachYoungsterScript:
 .Text1
 	text "Oh, no. Oh, no…"
 
-	para "My Pikablu is"
+	para "My #mon is"
 	line "missing."
 
 	para "No… It couldn't"

@@ -54,14 +54,14 @@ Route19BeachHouseVictorScript:
 	line "The name's Victor."
 
 	para "I love to Surf,"
-	line "and so does Puka."
-	cont "That's my Pikachu!"
+	line "and so does Wupa."
+	cont "That's my #mon!"
 	done
 
 .ChallengeText:
 	text "Whoa!"
 
-	para "Your Pikachu knows"
+	para "Your #mon knows"
 	line "how to Surf! So,"
 	cont "I'm not alone…"
 
@@ -69,7 +69,7 @@ Route19BeachHouseVictorScript:
 	line "the right to a"
 
 	para "Surfing battle"
-	line "with me and Puka!"
+	line "with me and Wupa!"
 
 	para "Give it a go?"
 	done
@@ -86,8 +86,8 @@ Route19BeachHouseVictorScript:
 	done
 
 .AfterText:
-	text "I hear some Pika-"
-	line "chu in Johto"
+	text "I hear some"
+	line "#mon in Johto"
 
 	para "taught themselves"
 	line "to Surf."
@@ -95,7 +95,7 @@ Route19BeachHouseVictorScript:
 	para "Maybe that's where"
 	line "mine came from."
 
-	para "I found Puka wash-"
+	para "I found Wupa wash-"
 	line "ed ashore years"
 	cont "ago, and we've been"
 
@@ -109,7 +109,7 @@ Route19BeachHouseVictorScript:
 
 	para "Go out there and"
 	line "find a Surfing"
-	cont "Pikachu!"
+	cont "#mon!"
 
 	para "Show me that you"
 	line "love Surfing too!"
@@ -126,5 +126,5 @@ Route19BeachHouseSurfingPikachuScript:
 	end
 
 .Text:
-	text "Puka: Pi-kaa!"
+	text "Wupa: Oop-aa!"
 	done

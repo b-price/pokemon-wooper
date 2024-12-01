@@ -46,7 +46,7 @@ SaffronHitmontopKidHouseChildScript:
 
 .Text3:
 	text "That's a"
-	line "Hitmontop!"
+	line "#mon!"
 	cont "Oh boy! So cool!"
 	done
 
@@ -97,7 +97,7 @@ SaffronHitmontopKidHouseTeacherScript:
 	cont "times."
 
 	para "Maybe if he saw a"
-	line "real Hitmontop he"
+	line "real #mon he"
 	cont "would calm down…"
 	done
 

@@ -103,7 +103,7 @@ Route34IlexForestGateTeacher_ForestIsRestless:
 	done
 
 Route34IlexForestGateButterfreeText:
-	text "Heracross: Cross!"
+	text "#mon: Paau!"
 	done
 
 Route34IlexForestGateLassText:

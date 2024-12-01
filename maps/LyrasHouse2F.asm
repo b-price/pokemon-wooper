@@ -58,7 +58,7 @@ LyrasHouseLyraText:
 	done
 
 LyrasHousePidgeotText:
-	text "Pidgeot: Pijiii!"
+	text "#mon: oopapah!"
 	done
 
 LyrasRadioText1:
@@ -89,6 +89,6 @@ LyrasHousePCText:
 
 LyrasHouseN64Text:
 	text "It's a limited-"
-	line "edition Pikachu"
+	line "edition #mon"
 	cont "N64!"
 	done

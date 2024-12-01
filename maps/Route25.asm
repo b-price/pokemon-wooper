@@ -199,15 +199,15 @@ SupernerdPatBeatenText:
 
 Route25MewYoungsterText:
 	text "One time I saw a"
-	line "Mew around here!"
+	line "Woop around here!"
 
 	para "You don't believe"
-	line "me? Slowpoke saw"
+	line "me? #mon saw"
 	cont "it too!"
 	done
 
 Route25SlowpokeText1:
-	text "Slowpoke: …"
+	text "#mon: …"
 
 	para "…… …… ……"
 	done

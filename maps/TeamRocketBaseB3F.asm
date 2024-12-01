@@ -397,7 +397,7 @@ ExecutiveM4AfterText:
 	done
 
 RocketBaseMurkrowText:
-	text "Murkrow: The"
+	text "#mon: The"
 	line "password is…"
 
 	para "Hail Giovanni."
@@ -422,7 +422,7 @@ GruntF5AfterBattleText:
 	text "The password to"
 	line "the boss's room is"
 
-	para "SlowpokeTail."
+	para "#monTail."
 
 	para "But it's useless"
 	line "unless you have"
@@ -459,7 +459,7 @@ GruntM28AfterBattleText:
 	line "the boss's room…"
 
 	para "Uh…, I think it is"
-	line "Raticate Tail."
+	line "#mon Tail."
 	done
 
 RocketScientistRossSeenText:

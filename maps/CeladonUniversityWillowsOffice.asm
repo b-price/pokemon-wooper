@@ -55,9 +55,9 @@ CeladonUniversityWillowsOfficeScientistText:
 	cont "of Route 7."
 
 	para "Today I saw 42"
-	line "Raticate and"
-	cont "37 Pidgeotto…"
-	cont "and one Vulpix!"
+	line "#mon and"
+	cont "37 #mon…"
+	cont "and one #mon!"
 	done
 
 CeladonUniversityWillowsOfficeBlackboardText:

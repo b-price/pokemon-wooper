@@ -70,7 +70,7 @@ KabutoPuzzleScript:
 	jumpthistext
 
 	text "It's the completed"
-	line "Kabuto panel!"
+	line "#mon panel!"
 	done
 
 OmanytePuzzleScript:
@@ -83,7 +83,7 @@ OmanytePuzzleScript:
 	jumpthistext
 
 	text "It's the completed"
-	line "Omanyte panel!"
+	line "#mon panel!"
 	done
 
 AerodactylPuzzleScript:
@@ -96,7 +96,7 @@ AerodactylPuzzleScript:
 	jumpthistext
 
 	text "It's the completed"
-	line "Aerodactyl panel!"
+	line "#mon panel!"
 	done
 
 HoOhPuzzleScript:
@@ -109,7 +109,7 @@ HoOhPuzzleScript:
 	jumpthistext
 
 	text "It's the completed"
-	line "Ho-Oh panel!"
+	line "#mon panel!"
 	done
 
 UnsolvedPuzzleText:

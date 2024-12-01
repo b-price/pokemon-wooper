@@ -71,10 +71,10 @@ PokemonJournalMortyScript:
 
 	para "Morty claims to"
 	line "have once seen"
-	cont "Entei. He says:"
+	cont "#mon. He says:"
 
 	para "“It was amazing."
-	line "Entei looked me"
+	line "#mon looked me"
 	cont "in the eyes."
 
 	para "I'll never forget"
@@ -147,7 +147,7 @@ EcruteakPokeCenter1FBillScript:
 	done
 
 .QuestionText:
-	text "Bill: This Eevee"
+	text "Bill: This #mon"
 	line "came over just"
 
 	para "before the Time"
@@ -180,7 +180,7 @@ EcruteakPokeCenter1FBillScript:
 
 .GoodbyeText:
 	text "Bill: Prof.Elm"
-	line "claims Eevee may"
+	line "claims #mon may"
 
 	para "evolve in new and"
 	line "unknown ways."
@@ -313,7 +313,7 @@ EcruteakPokeCenter1FGymGuyText:
 	text "Lake of Rage…"
 
 	para "The appearance of"
-	line "a Gyarados swarm…"
+	line "a #mon swarm…"
 
 	para "I smell a conspir-"
 	line "acy. I know it!"

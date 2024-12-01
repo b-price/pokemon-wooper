@@ -162,9 +162,9 @@ PokeDollVendingMachine:
 .MenuData2:
 	db $80 ; flags
 	db 4 ; items
-	db "Jigglypuff  ¥2400@"
-	db "Ditto       ¥2400@"
-	db "Meowth      ¥2400@"
+	db "Puff Woop   ¥2400@"
+	db "DNA Woop    ¥2400@"
+	db "Neko Woop   ¥2400@"
 	db "Cancel@"
 
 GoldenrodDeptStoreRoofPokefanFText:
@@ -197,11 +197,11 @@ GoldenrodDeptStoreRoofFisherDuplicateText:
 
 GotVoltorbDollText:
 	text "<PLAYER> received"
-	line "Voltorb Doll."
+	line "#mon Doll."
 	done
 
 VoltorbDollSentText:
-	text "Voltorb Doll"
+	text "#mon Doll"
 	line "was sent home."
 	done
 
@@ -285,7 +285,7 @@ Binoculars2Text:
 
 Binoculars3Text:
 	text "A Fisher caught a"
-	line "lot of Magikarp…"
+	line "lot of #mon…"
 
 	para "They're Splashing"
 	line "at the same time!"
@@ -309,30 +309,30 @@ PokeDollVendingMachineAlreadyBoughtText:
 
 BoughtJigglypuffDollText:
 	text "<PLAYER> bought"
-	line "Jigglypuff Doll."
+	line "#mon Doll."
 	done
 
 JigglypuffDollSentText:
-	text "Jigglypuff Doll"
+	text "#mon Doll"
 	line "was sent home."
 	done
 
 BoughtDittoDollText:
 	text "<PLAYER> bought"
-	line "Ditto Doll."
+	line "#mon Doll."
 	done
 
 DittoDollSentText:
-	text "Ditto Doll"
+	text "#mon Doll"
 	line "was sent home."
 	done
 
 BoughtMeowthDollText:
 	text "<PLAYER> bought"
-	line "Meowth Doll."
+	line "#mon Doll."
 	done
 
 MeowthDollSentText:
-	text "Meowth Doll"
+	text "#mon Doll"
 	line "was sent home."
 	done

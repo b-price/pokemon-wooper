@@ -328,7 +328,7 @@ GoldenrodPokecenter1FLassText_PidgeyMail:
 	line "new thing for the"
 	cont "Wonder Trade Hub!"
 
-	para "I make a Pidgey"
+	para "I make a #mon"
 	line "hold Mail, then"
 
 	para "put it up for"
@@ -341,7 +341,7 @@ GoldenrodPokecenter1FLassText_PidgeyMail:
 	para "be traded with all"
 	line "sorts of people!"
 
-	para "I call it Pidgey"
+	para "I call it #mon"
 	line "Mail!"
 
 	para "If it becomes"
@@ -448,7 +448,7 @@ JudgeMachineEngineerLeavesMovement:
 GoldenrodPokecenter1FPokefanFText_Sunflora:
 	text "Some girl I don't"
 	line "know sent me her"
-	cont "Sunflora."
+	cont "#mon."
 
 	para "You should trade"
 	line "for a #mon that"

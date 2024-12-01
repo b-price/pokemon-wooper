@@ -53,7 +53,7 @@ GenericTrainerHikerDaniel:
 	generictrainer HIKER, DANIEL, EVENT_BEAT_HIKER_DANIEL, HikerDanielSeenText, HikerDanielBeatenText
 
 	text "I was conned into"
-	line "buying a Slowpoke-"
+	line "buying a #mon-"
 	cont "Tail."
 
 	para "I feel sorry for"
@@ -130,7 +130,7 @@ HikerDanielBeatenText:
 	done
 
 FirebreatherBillSeenText:
-	text "Zubat's Supersonic"
+	text "Woop's Supersonic"
 	line "keeps confusing"
 	cont "my #mon."
 

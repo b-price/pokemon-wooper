@@ -303,7 +303,7 @@ RuinsOfAlphOutsideFisherText1:
 
 RuinsOfAlphOutsideYoungster1Text:
 	text "There are many"
-	line "kinds of Unown, so"
+	line "kinds of #mon, so"
 
 	para "we use them for"
 	line "our secret codes."

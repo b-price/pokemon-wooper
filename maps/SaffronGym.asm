@@ -143,7 +143,7 @@ GenericTrainerPsychicJared:
 GenericTrainerHexManiacLuna:
 	generictrainer HEX_MANIAC, LUNA, EVENT_BEAT_HEX_MANIAC_LUNA, HexManiacLunaSeenText, HexManiacLunaBeatenText
 
-	text "Alakazam is a pow-"
+	text "#mon is a pow-"
 	line "erful #mon,"
 
 	para "so Hex Maniacs use"
@@ -306,8 +306,7 @@ PsychicJaredBeatenText:
 	done
 
 HexManiacLunaSeenText:
-	text "Abra, Kadabra,"
-	line "Alakazam!"
+	text "Hocus, pocus!"
 	done
 
 HexManiacLunaBeatenText:

@@ -102,17 +102,17 @@ PokemonMansionDiaryText:
 
 	para "We christened the"
 	line "newly discovered"
-	cont "#mon, Mew."
+	cont "#mon."
 
 	para "Diary: Feb. 6"
 
-	para "Mew gave birth."
+	para "#mon gave birth."
 	line "We named the"
-	cont "newborn Mewtwo."
+	cont "newborn #mon."
 
 	para "Diary: Sept. 1"
 
-	para "Mewtwo is far"
+	para "#mon is far"
 	line "too powerful."
 
 	para "We have failed to"

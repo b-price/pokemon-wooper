@@ -313,7 +313,7 @@ OlivinePortFridayShipText:
 	done
 
 OlivinePortFishingGuru1Text:
-	text "Shellder are easy"
+	text "#mon are easy"
 	line "to catch here."
 
 	para "They're kind of"

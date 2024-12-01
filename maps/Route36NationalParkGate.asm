@@ -374,7 +374,7 @@ BugCatchingContestant5BText:
 
 BugCatchingContestant5BStillCompetingText:
 	text "Benny: I caught a"
-	line "Scyther before,"
+	line "#mon before,"
 	cont "but I didn't win."
 	done
 
@@ -419,7 +419,7 @@ BugCatchingContestant8BText:
 BugCatchingContestant8BStillCompetingText:
 	text "Josh: I heard that"
 	line "somebody won with"
-	cont "a Caterpie!"
+	cont "a lil #mon!"
 	done
 
 BugCatchingContestant9BText:

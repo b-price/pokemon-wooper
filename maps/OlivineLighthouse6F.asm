@@ -162,7 +162,7 @@ JasmineCianwoodPharmacyText:
 	line "the sea…"
 
 	para "And I can't leave"
-	line "Amphy unattended…"
+	line "Woopy unattended…"
 	done
 
 JasmineGetSomeMedicineText:
@@ -174,7 +174,7 @@ JasmineGetSomeMedicineText:
 JasmineCureAmphyText:
 	text "Jasmine: …Will"
 	line "that medicine cure"
-	cont "Amphy?"
+	cont "Woopy?"
 	done
 
 PlayerHandedSecretpotionText:
@@ -188,7 +188,7 @@ JasmineDontBeOffendedText:
 	line "please don't be"
 	cont "offended…"
 
-	para "…Amphy will not"
+	para "…Woopy will not"
 	line "take anything from"
 	cont "anyone but me…"
 	done
@@ -196,7 +196,7 @@ JasmineDontBeOffendedText:
 JasmineAmphyHowAreYouFeelingText:
 	text "Jasmine: …"
 
-	para "Amphy, how are you"
+	para "Woopy, how are you"
 	line "feeling?"
 	done
 
@@ -219,12 +219,12 @@ JasmineISeeText:
 	done
 
 JasmineAmphyHangOnText:
-	text "…Amphy, hang on!"
+	text "…Woopy, hang on!"
 	done
 
 AmphyPalPalooText:
-	text "Amphy: …"
-	line "…Pa… paloo…"
+	text "Woopy: …"
+	line "…Pa… pauu…"
 	done
 
 AmphyBreathingLaboredText:
@@ -233,6 +233,6 @@ AmphyBreathingLaboredText:
 	done
 
 AmphyPaluPaluluText:
-	text "Amphy: Palu!"
-	line "Palulu!"
+	text "Woopy: Ooop!"
+	line "Oopapauu!"
 	done

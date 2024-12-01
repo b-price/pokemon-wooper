@@ -461,11 +461,11 @@ BattleTower2FSuperNerdText:
 
 	para "Don't let your"
 	line "guard down,"
-	cont "Pikachu!"
+	cont "#mon!"
 	done
 
 BattleTower2FPikachuText:
-	text "Pikachu: Pichuu!"
+	text "#mon: oooop!"
 	done
 
 BattleTower2FYoungsterText:

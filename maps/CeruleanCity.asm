@@ -138,17 +138,17 @@ CeruleanCitySuperNerdText:
 	done
 
 CeruleanCitySlowbroText:
-	text "Slowbro: Yarah?"
+	text "#mon: Ooopa?"
 	done
 
 CeruleanCityCooltrainerFText1:
-	text "My Slowbro and I"
+	text "My #mon and I"
 	line "make an awesome"
 	cont "combination!"
 	done
 
 CeruleanCityCooltrainerFText2:
-	text "Slowbro, show me"
+	text "#mon, show me"
 	line "your Confusion!"
 	done
 

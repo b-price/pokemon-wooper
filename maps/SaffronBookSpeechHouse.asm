@@ -35,7 +35,7 @@ SaffronBookSpeechHouseBookText:
 	para "The Princess and"
 	line "the #mon,"
 
-	para "Edward Scizor-"
+	para "Edward Woop-"
 	line "hands, Dr.Jekyll"
-	cont "& Mr.Mime…"
+	cont "& Mr. #mon…"
 	done

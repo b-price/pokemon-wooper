@@ -112,7 +112,7 @@ PokefanF_AcrobaticsFarmer:
 	jumpopenedtext FarmerFText_AcrobaticsSpeech
 
 FarmerMText_SickCow:
-	text "My Miltank ain't"
+	text "My #mon ain't"
 	line "givin' me milk"
 	cont "n'more."
 
@@ -131,7 +131,7 @@ FarmerMText_SickCow:
 
 FarmerMText_BuyMilk:
 	text "How'd you like my"
-	line "Moomoo Milk?"
+	line "Woowoo Milk?"
 
 	para "It's my pride and"
 	line "joy, there."
@@ -173,7 +173,7 @@ FarmerFText_InTrouble:
 	line "out to Kanto."
 
 	para "So if our own"
-	line "Miltank won't give"
+	line "#mon won't give"
 
 	para "us any milk, we're"
 	line "in trouble."
@@ -181,9 +181,9 @@ FarmerFText_InTrouble:
 
 FarmerFText_HealedMiltank:
 	text "You fixed our"
-	line "Miltank, hon. Now"
+	line "#mon, hon. Now"
 
-	para "it gives Moomoo"
+	para "it gives Woowoo"
 	line "Milk again."
 
 	para "Here's somethin'"

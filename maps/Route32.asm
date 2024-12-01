@@ -761,7 +761,7 @@ Text_MillionDollarSlowpokeTail:
 	line "to have this"
 
 	para "tasty, nutritious"
-	line "SlowpokeTail?"
+	line "#monTail?"
 
 	para "For you right now,"
 	line "just ¥10,000,000!"

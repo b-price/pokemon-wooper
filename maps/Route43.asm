@@ -518,7 +518,7 @@ PokemaniacRonSeenText:
 	done
 
 PokemaniacRonBeatenText:
-	text "My Nidoking did"
+	text "My #mon did"
 	line "pretty right on!"
 	done
 
@@ -568,7 +568,7 @@ PicnickerTiffanyWantsPicnicText:
 	done
 
 PicnickerTiffanyClefairyText:
-	text "Isn't my Clefairy"
+	text "Isn't my #mon"
 	line "just the most"
 	cont "adorable thing?"
 	done

@@ -145,12 +145,12 @@ endc
 
 MahoganyTownGrampsText:
 	text "Are you off to see"
-	line "the Gyarados ram-"
+	line "the #mon ram-"
 	cont "page at the lake?"
 	done
 
 MahoganyTownGrampsText_ClearedRocketHideout:
-	text "Magikarp have"
+	text "#mon have"
 	line "returned to Lake"
 	cont "of Rage."
 

@@ -65,7 +65,7 @@ GenericTrainerBird_keeperHank:
 GenericTrainerPicnickerHope:
 	generictrainer PICNICKER, HOPE, EVENT_BEAT_PICNICKER_HOPE, PicnickerHopeSeenText, PicnickerHopeBeatenText
 
-	text "I heard Clefairy"
+	text "I heard #mon"
 	line "appear at Mt.Moon."
 
 	para "But where could"
@@ -205,18 +205,12 @@ Route4SuperNerd1Text:
 	text "#mon with tough"
 	line "heads are best!"
 
-	para "Arcanine, Golem,"
-	line "Snorlax!"
-
 	para "Don't you agree?"
 	done
 
 Route4SuperNerd2Text:
 	text "#mon with long"
 	line "tails are best!"
-
-	para "Slowbro, Golduck,"
-	line "Feraligatr!"
 
 	para "Don't you agree?"
 	done

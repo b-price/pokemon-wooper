@@ -182,7 +182,7 @@ CeladonUniversityLibrary2FBookshelf6Text:
 	line "erences."
 
 	para "There's a picture"
-	line "of a Raichu that"
+	line "of a #mon that"
 	cont "looks a little"
 	cont "strange…"
 	done
@@ -206,7 +206,7 @@ CeladonUniversityLibrary2FBookshelf8Text:
 	line "of this book."
 
 	para "“How to Train Your"
-	line "Dragonite” is"
+	line "#mon” is"
 	cont "written in bold."
 	done
 
@@ -217,7 +217,7 @@ CeladonUniversityLibrary2FBookshelf9Text:
 	para "inhabited entirely"
 	line "by #mon!"
 
-	para "“Pikachu's Adven-"
+	para "“#mon's Adven-"
 	line "tures in #Park”"
 
 	para "is written on the"
@@ -297,7 +297,7 @@ CeladonUniversityLibrary2FBookshelf17Text:
 	line "“Typecasting: The"
 
 	para "Mystery of"
-	line "Sudowoodo”."
+	line "#mon”."
 	done
 
 CeladonUniversityLibrary2FBookshelf18Text:
@@ -338,7 +338,7 @@ CeladonUniversityLibrary2FComputer1:
 	line "screen with a"
 
 	para "background image"
-	line "of a Magikarp."
+	line "of a #mon."
 	done
 
 CeladonUniversityLibrary2FComputer2:

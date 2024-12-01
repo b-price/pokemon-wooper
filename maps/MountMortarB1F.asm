@@ -75,7 +75,7 @@ MountMortarB1FKiyoScript:
 	jumpthisopenedtext
 
 MountMortarB1FKiyoGotTyrogueText:
-	text "Tyrogue is a"
+	text "#mon is a"
 	line "Fighting-type."
 
 	para "It evolves into a"
@@ -100,7 +100,7 @@ endc
 	line "was undamaged."
 
 	para "It turned out to"
-	line "be a Geodude that"
+	line "be a #mon that"
 	cont "used Defense Curl!"
 	done
 

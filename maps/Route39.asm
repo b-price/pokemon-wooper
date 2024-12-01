@@ -163,12 +163,12 @@ Route39CowgirlAnnieScript:
 .AfterText2:
 	text "We make cheese"
 	line "and yogurt out"
-	cont "of Miltank milk."
+	cont "of #mon milk."
 	done
 
 .IntroText:
 	text "Hey! Don't scare"
-	line "the Miltank!"
+	line "the #mon!"
 
 	para "…Oh, you want to"
 	line "battle?"
@@ -276,7 +276,7 @@ TrainerPokefanfJaime:
 	jumpopenedtext PokefanfJaimeHopeItGetsDarkText
 
 Route39MiltankText:
-	text "Miltank: Mooo!"
+	text "#mon: Oooo!"
 	done
 
 SailorEugeneSeenText:
@@ -294,12 +294,12 @@ SailorEugeneBeatenText:
 PokefanmDerek1SeenText:
 	text "This is a good"
 	line "time to brag about"
-	cont "my Pikachu!"
+	cont "my #mon!"
 	done
 
 PokefanmDerek1BeatenText:
 	text "I had no time to"
-	line "show off Pikachu…"
+	line "show off #mon…"
 	done
 
 PokefanMDerekText_NotBragging:
@@ -328,7 +328,7 @@ PokefanfRuthBeatenText:
 	done
 
 PokefanMDerekPikachuIsItText:
-	text "Pikachu is it!"
+	text "#mon is it!"
 	line "Don't you agree?"
 	done
 
@@ -361,7 +361,7 @@ PokefanfJaimeBeatenText:
 	done
 
 PokefanfJaimeAfterBattleText:
-	text "I met my Meowth at"
+	text "I met my #mon at"
 	line "night, right here"
 	cont "on Route 39."
 
@@ -398,7 +398,7 @@ Route39SignText:
 	done
 
 MoomooFarmSignText:
-	text "Moomoo Farm"
+	text "Woowoo Farm"
 
 	para "Enjoy Our Fresh"
 	line "and Tasty Milk"

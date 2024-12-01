@@ -89,7 +89,7 @@ GenericTrainerVeteranfSylvie:
 	generictrainer VETERANF, SYLVIE, EVENT_BEAT_VETERANF_SYLVIE, VeteranfSylvieSeenText, VeteranfSylvieBeatenText
 
 	text "Did somebody"
-	line "capture Moltres"
+	line "capture #mon"
 	cont "already?"
 	done
 
@@ -194,7 +194,7 @@ VeteranfJoanneBeatenText:
 
 VeteranfSylvieSeenText:
 	text "There's supposed"
-	line "to be a Moltres"
+	line "to be a #mon"
 	cont "roosting here."
 
 	para "I'm going to catch"

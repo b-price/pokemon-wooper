@@ -90,7 +90,7 @@ GenericTrainerTamerJordan:
 GenericTrainerAromaLadyPeony:
 	generictrainer AROMA_LADY, PEONY, EVENT_BEAT_AROMA_LADY_PEONY, .SeenText, .BeatenText
 
-	text "My Bellossom loves"
+	text "My #mon loves"
 	line "living on this"
 
 	para "peaceful little"
@@ -99,11 +99,11 @@ GenericTrainerAromaLadyPeony:
 
 .SeenText:
 	text "Do you want to see"
-	line "my Bellossom?"
+	line "my #mon?"
 	done
 
 .BeatenText:
-	text "Aww… Bellossom"
+	text "Aww… #mon"
 	line "didn't want to"
 	cont "battle…"
 	done

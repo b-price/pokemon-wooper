@@ -106,7 +106,7 @@ PokemonFanClubChairmanRapidashText:
 	line "Then listen up!"
 
 	para "So… my favorite"
-	line "Rapidash…"
+	line "#mon…"
 
 	para "It… cute… lovely…"
 	line "smart… unbearably…"
@@ -171,7 +171,7 @@ PokemonFanClubReceptionistText:
 
 PokemonFanClubClefairyGuyClefairyIsSoAdorableText:
 	text "I love the way"
-	line "Clefairy waggles"
+	line "#mon waggles"
 
 	para "its finger when"
 	line "it's trying to use"
@@ -181,7 +181,7 @@ PokemonFanClubClefairyGuyClefairyIsSoAdorableText:
 	done
 
 PokemonFanClubClefairyGuyMakingDoWithADollIFoundText:
-	text "I love Clefairy,"
+	text "I love #mon,"
 	line "but I could never"
 
 	para "catch one. So I'm"
@@ -204,7 +204,7 @@ PokemonFanClubClefairyGuyTakeThisDollBackToGirlText:
 	line "little girl?"
 
 	para "I'll befriend a"
-	line "real Clefairy on"
+	line "real #mon on"
 
 	para "my own one day."
 	line "No worries!"
@@ -214,29 +214,29 @@ PokemonFanClubClefairyGuyGoingToGetARealClefairyText:
 	text "You watch. I'm"
 	line "going to get a"
 
-	para "real Clefairy as"
+	para "real #mon as"
 	line "my friend."
 	done
 
 PokemonFanClubTeacherText:
 	text "Look at my darling"
-	line "Oddish!"
+	line "#mon!"
 
 	para "The leaves on its"
 	line "head are so cute!"
 	done
 
 ClefairyDollText:
-	text "It's a Clefairy!"
+	text "It's a #mon!"
 	line "Huh?"
 
 	para "Oh, right. It's a"
-	line "Clefairy #"
+	line "#mon #"
 	cont "Doll."
 	done
 
 FanClubOddishText:
-	text "Oddish: Diish!"
+	text "#mon: Paau!"
 	done
 
 PokemonFanClubListenSignText:

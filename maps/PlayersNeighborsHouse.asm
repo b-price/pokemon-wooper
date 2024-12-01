@@ -45,7 +45,7 @@ PlayersNeighborsHouseRadio:
 	endtext
 
 PlayersNeighborsDaughterText:
-	text "Pikachu is an"
+	text "There are some"
 	line "evolved #mon."
 
 	para "I was amazed by"

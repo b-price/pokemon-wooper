@@ -27,13 +27,13 @@ MahoganyRedGyaradosSpeechHouseTeacherScript:
 
 MahoganyRedGyaradosSpeechHouseBlackBeltText:
 	text "I heard that a red"
-	line "Gyarados appeared"
+	line "#mon appeared"
 	cont "at the lake."
 
 	para "That's odd, since"
 	line "even ordinary"
 
-	para "Gyarados are rare"
+	para "#mon are rare"
 	line "in that lake…"
 	done
 

@@ -49,14 +49,14 @@ PokefanmTrevorSeenText:
 
 PokefanmTrevorBeatenText:
 	text "Where did I meet"
-	line "this Psyduck?"
+	line "this #mon?"
 	done
 
 GenericTrainerPokefanmCarter:
 	generictrainer POKEFANM, CARTER, EVENT_BEAT_POKEFANM_CARTER, PokefanmCarterSeenText, PokefanmCarterBeatenText
 
-	text "Squirtle, Charman-"
-	line "der and Bulbasaur…"
+	text "Three different"
+	line "kinds of #mon."
 
 	para "I think that's a"
 	line "well-balanced mix."

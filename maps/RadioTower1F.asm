@@ -390,16 +390,16 @@ RadioTower1FRadioCardWomanQuestion2Text:
 	text "Correct!"
 	line "Question 2:"
 
-	para "Nidorina can only"
-	line "be female. True?"
+	para "Some #mon are"
+	line "only female. True?"
 	done
 
 RadioTower1FRadioCardWomanQuestion3Text:
 	text "Bull's-eye!"
 	line "Question 3:"
 
-	para "Can Magikarp learn"
-	line "any moves via TM?"
+	para "Some #mon"
+	line "can't use TMs?"
 	done
 
 RadioTower1FRadioCardWomanQuestion4Text:
@@ -421,7 +421,7 @@ RadioTower1FRadioCardWomanQuestion5Text:
 	para "Do Goldenrod Game"
 	line "Corner's slots"
 
-	para "have Charmander"
+	para "have #mon"
 	line "on their reels?"
 	done
 

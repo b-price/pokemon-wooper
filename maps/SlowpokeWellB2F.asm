@@ -28,18 +28,18 @@ SlowpokeWellB2FGymGuideScript:
 
 SlowpokeWellB2FGymGuideText:
 	text "I'm waiting to see"
-	line "Slowpoke's moment"
+	line "#mon's moment"
 	cont "of evolution."
 
 	para "Through observa-"
 	line "tion, I made a new"
 	cont "discovery."
 
-	para "A Slowpoke with a"
+	para "A #mon with a"
 	line "King's Rock often"
 
-	para "gets bitten by a"
-	line "Shellder."
+	para "gets bitten by"
+	line "another."
 
 	para "Here, I'll share a"
 	line "King's Rock with"
@@ -48,7 +48,7 @@ SlowpokeWellB2FGymGuideText:
 
 SlowpokeWellB2FGymGuideText_GotKingsRock:
 	text "I'm going to be"
-	line "like Slowpoke."
+	line "like #mon."
 
 	para "I'll wait patient-"
 	line "ly, so I can see"

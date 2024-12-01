@@ -145,16 +145,16 @@ EusineNoBeastsText:
 	done
 
 EusineShowsRaikouText:
-	text "This is Raikou:"
+	text "This is #mon:"
 	done
 
 EusineShowsEnteiText:
-	text "This is Entei:"
+	text "This is #mon:"
 	done
 
 EusineShowsSuicuneText:
 	text "This, of course,"
-	line "is Suicune:"
+	line "is #mon:"
 	done
 
 EusineQuestHintText:
@@ -177,7 +177,7 @@ EusinesHouseGrampsText2:
 	line "is in Johto,"
 
 	para "searching far and"
-	line "wide for Suicune."
+	line "wide for #mon."
 
 	para "I taught him all"
 	line "about the legend-"

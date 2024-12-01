@@ -136,7 +136,7 @@ MooMoo:
 	end
 
 Text_MoomooIsSick:
-	text "Moomoo is sick…"
+	text "Woowoo is sick…"
 
 	para "She needs lots of"
 	line "healthy Berries."
@@ -144,11 +144,11 @@ Text_MoomooIsSick:
 
 Text_WereFeedingMoomoo:
 	text "We're feeding"
-	line "Moomoo!"
+	line "Woowoo!"
 	done
 
 Text_WeakMoo:
-	text "Miltank: …Moo…"
+	text "#mon: …Ooo…"
 	done
 
 Text_ItsCryIsWeak:
@@ -156,39 +156,39 @@ Text_ItsCryIsWeak:
 	done
 
 MoomooHappyMooText:
-	text "Miltank: Mooo!"
+	text "#mon: Oooo!"
 	done
 
 Text_AskGiveBerry:
 	text "Give an Oran or"
 	line "Sitrus Berry to"
-	cont "Miltank?"
+	cont "#mon?"
 	done
 
 Text_GaveOranBerry:
 	text "<PLAYER> gave an"
 	line "Oran Berry to"
-	cont "Miltank."
+	cont "#mon."
 	done
 
 Text_GaveSitrusBerry:
 	text "<PLAYER> gave a"
 	line "Sitrus Berry to"
-	cont "Miltank."
+	cont "#mon."
 	done
 
 Text_LittleHealthier:
-	text "Miltank became a"
+	text "#mon became a"
 	line "little healthier!"
 	done
 
 Text_QuiteHealthy:
-	text "Miltank became"
+	text "#mon became"
 	line "quite healthy!"
 	done
 
 Text_TotallyHealthy:
-	text "Miltank became"
+	text "#mon became"
 	line "totally healthy!"
 	done
 
@@ -202,5 +202,5 @@ Text_RefusedToGiveBerry:
 	text "<PLAYER> wouldn't"
 	line "give a Berry."
 
-	para "Miltank looks sad."
+	para "#mon looks sad."
 	done

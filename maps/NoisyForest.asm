@@ -284,12 +284,12 @@ NoisyForestPikabluScript:
 	sjump .Leave
 
 .PikabluText:
-	text "Marill: Rill!"
+	text "#mon: Paa!"
 	done
 
 .OwnerText1:
 	text "You found my"
-	line "Pikablu!"
+	line "#mon!"
 	cont "Thank you!"
 	done
 

@@ -436,7 +436,7 @@ MysticWaterGuyTextBefore:
 	done
 
 CherrygrovePidgeyText:
-	text "Pidgey: Pijji!"
+	text "#mon: oopa!"
 	done
 
 CherrygroveCitySignText:

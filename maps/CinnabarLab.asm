@@ -399,5 +399,5 @@ CinnabarLabGiovanniStopText:
 	done
 
 CinnabarLabCelebiText:
-	text "Celebi: Biii!"
+	text "#mon: Ooop!"
 	done

@@ -110,7 +110,7 @@ CinnabarVolcanoMoltres:
 	end
 
 MoltresText:
-	text "Gyaoo!"
+	text "Paau!"
 	done
 
 CinnabarVolcanoB2FLawrenceSpeechText:
@@ -118,7 +118,7 @@ CinnabarVolcanoB2FLawrenceSpeechText:
 	line "again, <PLAYER>."
 
 	para "So you are search-"
-	line "ing for Moltres"
+	line "ing for #mon"
 	cont "here too."
 	cont "Did I inspire you?"
 

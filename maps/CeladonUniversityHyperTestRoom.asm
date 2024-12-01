@@ -258,7 +258,7 @@ CeladonUniversityHyperTestRoomWestwoodScript:
 	para "Here's your prize--"
 	line "a uniquely bred"
 
-	para "Magikarp that"
+	para "#mon that"
 	line "knows Dragon Rage!"
 	done
 
@@ -266,7 +266,7 @@ CeladonUniversityHyperTestRoomWestwoodScript:
 	text "Our students have"
 	line "the tenacity of a"
 
-	para "Magikarp strugg-"
+	para "#mon strugg-"
 	line "ling to evolve."
 	cont "And so do you!"
 	done
@@ -309,10 +309,10 @@ CeladonUniversityHyperTestRoomWestwoodScript:
 .Question1MenuData2:
 	db $81 ; flags
 	db 4 ; items
-	db "Umbreon@"
-	db "Glaceon@"
-	db "Persian@"
-	db "Girafarig@"
+	db "Dark Woop@"
+	db "Ice Woop@"
+	db "Norm Woop@"
+	db "Pali-Woop@"
 
 .Question2MenuData:
 	db $40 ; flags
@@ -324,10 +324,10 @@ CeladonUniversityHyperTestRoomWestwoodScript:
 .Question2MenuData2:
 	db $81 ; flags
 	db 4 ; items
-	db "Blissey@"
-	db "Qwilfish@"
-	db "Slowking@"
-	db "Venomoth@"
+	db "Kind Woop@"
+	db "Spike Woop@"
+	db "King Woop@"
+	db "Moth Woop@"
 
 .Question3MenuData:
 	db $40 ; flags
@@ -354,10 +354,10 @@ CeladonUniversityHyperTestRoomWestwoodScript:
 .Question4MenuData2:
 	db $81 ; flags
 	db 4 ; items
-	db "Parasect@"
-	db "Magmar@"
-	db "Sandslash@"
-	db "Victreebel@"
+	db "Mush Woop@"
+	db "Mag-Woop@"
+	db "Sand Woop@"
+	db "Bell Woop@"
 
 .Question5MenuData:
 	db $40 ; flags
@@ -421,7 +421,7 @@ CeladonUniversityHyperTestRoomMagikarpSign:
 	closepokepic
 	jumpthistext
 
-	text "A Magikarp is"
+	text "A #mon is"
 	line "swimming around."
 	done
 
@@ -437,7 +437,7 @@ CeladonUniversityHyperTestRoomBookshelf2Text:
 	text "It's a copy of"
 	line "Nintendo Power!"
 
-	para "A Pikachu picture"
+	para "A #mon picture"
 	line "fills the front"
 	cont "cover."
 	done

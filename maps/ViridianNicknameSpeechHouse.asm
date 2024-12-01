@@ -33,14 +33,14 @@ ViridianNicknameSpeechHousePokefanMText:
 
 ViridianNicknameSpeechHouseLassText:
 	text "They're Hooty--"
-	line "a Hoothoot--and"
-	cont "Rattey--a Rattata."
+	line "a #mon--and"
+	cont "Rattey--a #mon."
 	done
 
 HootyText:
-	text "Hooty: Hoot!"
+	text "Hooty: Ooop!"
 	done
 
 RatteyText:
-	text "Rattey: Kikiii!"
+	text "Rattey: Papapa!"
 	done

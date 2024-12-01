@@ -114,8 +114,8 @@ WiseTriosRoomSageAllowsPassageMovement:
 WiseTriosRoomSage1Text:
 	text "Astounding…"
 
-	para "Suicune, Entei and"
-	line "Raikou have arisen"
+	para "The #mon"
+	line "have arisen"
 	cont "from their sleep…"
 
 	para "Is the legend"
@@ -144,10 +144,8 @@ WiseTriosRoomSage3BlocksExitText:
 	line "Gym Badge."
 
 	para "However, now that"
-	line "Suicune, Raikou"
-
-	para "and Entei have"
-	line "arisen, I ask you"
+	line "the #mon"
+	cont "arisen, I ask you"
 
 	para "to refrain from"
 	line "entering!"
@@ -181,7 +179,7 @@ ElderGakuSeenText:
 	line "come true!"
 
 	para "The legendary"
-	line "#mon Suicune"
+	line "#mon "
 	cont "has arrived!"
 
 	para "We, the Wise Trio,"
@@ -200,9 +198,8 @@ SageGakuAfterBattleText:
 	text "Ah, so it is you"
 	line "who claim to have"
 
-	para "seen Suicune,"
-	line "Entei and Raikou"
-	cont "while they slept?"
+	para "seen #mon,"
+	line "while they slept?"
 
 	para "Unbelievable!"
 
@@ -322,13 +319,13 @@ SageKojiAfterBattleSpeechText:
 	line "and enter the"
 	cont "Bell Tower ahead."
 
-	para "Suicune will put"
+	para "#mon will put"
 	line "you to the test."
 	done
 
 SageKojiAfterBattleFinalText:
 	text "Please, do go on."
 
-	para "Suicune will put"
+	para "#mon will put"
 	line "you to the test."
 	done

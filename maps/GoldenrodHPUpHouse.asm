@@ -48,7 +48,7 @@ GoldenrodHPUpHousePokefanMScript:
 	done
 
 GoldenrodHPUpHousePokefanFText:
-	text "I gave my Pichu a"
+	text "I gave my #mon a"
 	line "haircut from the"
 
 	para "Haircut Brothers"
@@ -60,5 +60,5 @@ GoldenrodHPUpHousePokefanFText:
 	done
 
 GoldenrodHPUpHousePikachuText:
-	text "Pikachu: Pika!"
+	text "#mon: Oopa!"
 	done

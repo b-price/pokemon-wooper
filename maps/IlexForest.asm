@@ -814,7 +814,7 @@ IlexForestApprenticeIntroText:
 	line "is going to be"
 	cont "steaming…"
 
-	para "The Farfetch'd"
+	para "The #mon"
 	line "that Cuts trees"
 
 	para "for charcoal took"
@@ -844,11 +844,11 @@ Text_ItsTheMissingPokemon:
 	done
 
 Text_Kwaaaa:
-	text "Farfetch'd: Kwaa!"
+	text "#mon: Paaa!"
 	done
 
 Text_CharcoalMasterIntro:
-	text "Ah! My Farfetch'd!"
+	text "Ah! My #mon!"
 
 	para "You found it for"
 	line "us, kid?"
@@ -920,7 +920,7 @@ Text_IlexForestTutorNoSilverLeaf:
 	para "Sometimes you can"
 	line "find them on wild"
 
-	para "Oddish, or lying"
+	para "#mon, or lying"
 	line "on the ground."
 	done
 
@@ -1029,7 +1029,7 @@ Text_KurtCaughtCelebi:
 	done
 
 Text_CelebiDancedBeautifully:
-	text "Celebi danced"
+	text "#mon danced"
 	line "beautifully!"
 	done
 
@@ -1057,7 +1057,7 @@ Text_IlexForestLyraWorried:
 	line "You're really back?"
 
 	para "I missed you so"
-	line "much! Celebi sent"
+	line "much! #mon sent"
 
 	para "me here and you"
 	line "were missing…"
@@ -1079,7 +1079,7 @@ Text_IlexForestLyraArmorSuit:
 	cont "have by yourself?"
 
 	para "You dropped this…"
-	line "thing when Celebi"
+	line "thing when #mon"
 	cont "brought you back…"
 	done
 

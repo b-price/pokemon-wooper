@@ -37,20 +37,20 @@ CeladonMansionManagerText:
 	para "so I don't ever"
 	line "feel lonely."
 
-	para "Meowth even brings"
+	para "#mon even brings"
 	line "money home."
 	done
 
 CeladonMansion1FMeowthText:
-	text "Meowth: Meow!"
+	text "#mon: Oop!"
 	done
 
 CeladonMansion1FClefairyText:
-	text "Clefairy: Clef"
-	line "cleff!"
+	text "#mon: Oop"
+	line "Ooop!"
 	done
 
 CeladonMansion1FNidoranFText:
-	text "Nidoran: Kya"
-	line "kyaoo!"
+	text "#mon: Oop"
+	line "papapa!"
 	done

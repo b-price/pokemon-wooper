@@ -79,7 +79,7 @@ LakeOfRageFloodScript:
 LakeOfRageSignText:
 	text "Lake of Rage,"
 	line "also known as"
-	cont "Gyarados Lake."
+	cont "#mon Lake."
 	done
 
 LakeOfRageFishingGuruSign:
@@ -135,10 +135,10 @@ LakeOfRageLanceScript:
 
 .OverheardText:
 	text "This lake is full"
-	line "of Gyarados but"
+	line "of #mon but"
 	cont "nothing else…"
 
-	para "So the Magikarp"
+	para "So the #mon"
 	line "are being forced"
 	cont "to evolve…"
 	done
@@ -175,7 +175,7 @@ LakeOfRageLanceScript:
 	text "Lance: Excellent!"
 
 	para "It seems that the"
-	line "lake's Magikarp"
+	line "lake's #mon"
 
 	para "are being forced"
 	line "to evolve."
@@ -239,7 +239,7 @@ LakeOfRageRedGyaradosScript:
 	end
 
 .GyaradosText:
-	text "Gyarados: Gyashaa!"
+	text "#mon: Oopaaa!"
 	done
 
 .RedScaleText:
@@ -339,12 +339,12 @@ GenericTrainerCooltrainerfLois:
 
 	text "Come to think of"
 	line "it, I've seen a"
-	cont "pink Butterfree."
+	cont "pink #mon."
 	done
 
 .SeenText:
 	text "What happened to"
-	line "the red Gyarados?"
+	line "the red #mon?"
 
 	para "It's gone?"
 
@@ -406,7 +406,7 @@ LakeOfRageGrampsScript:
 	iftrue_jumptextfaceplayer .Text2
 	jumpthistextfaceplayer
 
-	text "The Gyarados are"
+	text "The #mon are"
 	line "angry!"
 
 	para "It's a bad omen!"
@@ -420,7 +420,7 @@ LakeOfRageGrampsScript:
 LakeOfRageSuperNerdText:
 	text "I heard this lake"
 	line "was made by ram-"
-	cont "paging Gyarados."
+	cont "paging #mon."
 
 	para "I wonder if there"
 	line "is any connection"
@@ -433,10 +433,10 @@ LakeOfRageCooltrainerFText:
 	text "Did my eyes de-"
 	line "ceive me? I saw a"
 
-	para "red Gyarados in"
+	para "red #mon in"
 	line "the lake…"
 
 	para "But I thought"
-	line "Gyarados were"
+	line "#mon were"
 	cont "usually blue?"
 	done

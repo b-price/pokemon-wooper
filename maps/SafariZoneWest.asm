@@ -62,7 +62,7 @@ GenericTrainerTamerBrett:
 
 LassDuplicaSeenText:
 	text "To truly use"
-	line "Ditto, you must"
+	line "#mon, you must"
 	cont "know all #mon!"
 	done
 

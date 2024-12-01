@@ -140,10 +140,10 @@ MahoganyMart1FBlackBeltText:
 	line "ment worked like a"
 	cont "charm."
 
-	para "Magikarp are just"
+	para "#mon are just"
 	line "worthless, but"
 
-	para "Gyarados are big"
+	para "#mon are big"
 	line "moneymakers."
 	done
 
@@ -155,7 +155,7 @@ MahoganyMart1FBlackBeltText_LanceEntered:
 	done
 
 MahoganyMart1FLanceDragoniteHyperBeamText:
-	text "Lance: Dragonite,"
+	text "Lance: #mon,"
 	line "Hyper Beam."
 	done
 

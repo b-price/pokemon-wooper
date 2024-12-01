@@ -19,10 +19,9 @@ BluesHouse2F_MapScriptHeader:
 BluesHouse2FPCText:
 	text "There's a program"
 	line "simulating a bat-"
-	cont "tle between a"
+	cont "tle between two"
 
-	para "Blastoise and a"
-	line "Dragonite."
+	para "tough #mon."
 	done
 
 BluesHouse2FSNESText:

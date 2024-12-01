@@ -311,7 +311,7 @@ Route36CooltrainerfChiaraScript:
 
 .IntroText:
 	text "I saw how you woke"
-	line "up that Sudowoodo."
+	line "up that #mon."
 
 	para "You did great!"
 

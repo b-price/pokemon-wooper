@@ -121,7 +121,7 @@ GenericTrainerTeacherKathryn:
 GenericTrainerBreederSophie:
 	generictrainer BREEDER, SOPHIE, EVENT_BEAT_BREEDER_SOPHIE, BreederSophieSeenText, BreederSophieBeatenText
 
-	text "Sometimes Pikachu"
+	text "Sometimes #mon"
 	line "use their electric"
 
 	para "shocks to revive"
@@ -285,7 +285,7 @@ TeacherKathrynBeatenText:
 
 BreederSophieSeenText:
 	text "Did you know that"
-	line "Pikachu is an"
+	line "#mon is an"
 	cont "evolved #mon?"
 	done
 
@@ -371,7 +371,7 @@ YellowForestWalkerFinalText:
 	done
 
 YellowForestWalkerFlyText:
-	text "Skarmory,"
+	text "#mon,"
 	line "let's Fly!"
 	done
 
@@ -380,7 +380,7 @@ YellowForestYellowGreetingText:
 	line "I'm Yellow!"
 
 	para "This forest full"
-	line "of Pikachu…"
+	line "of #mon…"
 
 	para "It reminds me of"
 	line "home in Kanto."
@@ -429,7 +429,7 @@ YellowForestYellowGoodbyeText:
 	text "Yellow: Give that"
 	line "Light Ball to a"
 
-	para "Pikachu to raise"
+	para "#mon to raise"
 	line "its power."
 	done
 
@@ -481,21 +481,21 @@ Text_YellowForestTutorTaught:
 YellowForestSuperNerdText:
 	text "There's a protein"
 	line "in your body"
-	cont "called pikachurin."
+	cont "called wooperin."
 
 	para "What inspired that"
 	line "name?"
 
-	para "Pikachu, of"
+	para "#mon, of"
 	line "course!"
 	done
 
 YellowForestSurfPikachuDollText:
 	text "<PLAYER> found"
-	line "Surf Pikachu Doll."
+	line "Surf Wooper Doll."
 	done
 
 YellowForestSurfPikachuDollSentText:
-	text "Surf Pikachu Doll"
+	text "Surf Wooper Doll"
 	line "was sent home."
 	done

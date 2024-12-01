@@ -439,7 +439,7 @@ DragonShrineTakeThisDratiniText:
 	para "I have something"
 	line "for you."
 
-	para "Take this Dratini"
+	para "Take this #mon"
 	line "as proof that I"
 
 	para "have recognized"

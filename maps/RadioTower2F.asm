@@ -306,8 +306,8 @@ RadioTower2FTeacherText_Rockets:
 	done
 
 RadioTowerJigglypuffText:
-	text "Jigglypuff:"
-	line "Jiggly…"
+	text "#mon:"
+	line "Paaa…"
 	done
 
 RadioTower2FBlackBelt1Text:

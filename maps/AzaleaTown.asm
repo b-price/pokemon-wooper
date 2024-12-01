@@ -253,17 +253,17 @@ AzaleaGymSignText:
 	done
 
 SlowpokeWellSignText:
-	text "Slowpoke Well"
+	text "#mon Well"
 
 	para "Also known as the"
 	line "Rainmaker Well."
 
 	para "Locals believe"
-	line "that a Slowpoke's"
+	line "that a #mon's"
 	cont "yawn summons rain."
 
 	para "Records show that"
-	line "a Slowpoke's yawn"
+	line "a #mon's yawn"
 
 	para "ended a drought"
 	line "400 years ago."
@@ -285,7 +285,7 @@ AzaleaTownGrampsScript:
 	iftrue_jumptextfaceplayer .Text2
 	jumpthistextfaceplayer
 
-	text "The Slowpoke have"
+	text "The #mon have"
 	line "disappeared from"
 	cont "town…"
 
@@ -295,7 +295,7 @@ AzaleaTownGrampsScript:
 	done
 
 .Text2:
-	text "The Slowpoke have"
+	text "The #mon have"
 	line "returned."
 
 	para "Knowing them, they"
@@ -341,7 +341,7 @@ AzaleaTownRocket1Text:
 
 AzaleaTownRocket2Text:
 	text "Do you know about"
-	line "SlowpokeTail? I"
+	line "#montail? I"
 	cont "heard it's tasty!"
 
 	para "Aren't you glad I"
@@ -351,7 +351,7 @@ AzaleaTownRocket2Text:
 AzaleaTownSlowpokeScript:
 	opentext
 	writethistext
-		text "Slowpoke: …"
+		text "#mon: …"
 
 		para "…… …… ……"
 		done

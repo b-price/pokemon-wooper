@@ -29,7 +29,7 @@ SproutTower1FGrannyScript:
 	iftrue_jumptextfaceplayer .MetricText
 	jumpthistextfaceplayer
 
-	text "A Bellsprout over"
+	text "A #mon over"
 	line "100 feet tall…"
 
 	para "People say that it"
@@ -38,7 +38,7 @@ SproutTower1FGrannyScript:
 	done
 
 .MetricText:
-	text "A Bellsprout over"
+	text "A #mon over"
 	line "30 meters tall…"
 
 	para "People say that it"

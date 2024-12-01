@@ -986,19 +986,19 @@ LabWhereGoingText:
 
 TakeCyndaquilText:
 	text "Elm: You'll take"
-	line "Cyndaquil, the"
+	line "this one, the"
 	cont "fire #mon?"
 	done
 
 TakeTotodileText:
 	text "Elm: Do you want"
-	line "Totodile, the"
+	line "this one, the"
 	cont "water #mon?"
 	done
 
 TakeChikoritaText:
 	text "Elm: So, you like"
-	line "Chikorita, the"
+	line "this one, the"
 	cont "grass #mon?"
 	done
 
@@ -1573,19 +1573,19 @@ LyraReceivedStarterText:
 LyraNicknamedChikoritaText:
 	text "Lyra: It's so"
 	line "cute! I'll nick-"
-	cont "name it Chicory!"
+	cont "name it Woopa!"
 	done
 
 LyraNicknamedCyndaquilText:
 	text "Lyra: It's so"
 	line "cute! I'll nick-"
-	cont "name it Cinder!"
+	cont "name it Woopy!"
 	done
 
 LyraNicknamedTotodileText:
 	text "Lyra: It's so"
 	line "cute! I'll nick-"
-	cont "name it Toto!"
+	cont "name it Woopo!"
 	done
 
 ElmsLabLyraGoodChoiceText:

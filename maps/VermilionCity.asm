@@ -324,7 +324,7 @@ VermilionMachokeOwnerText:
 	para "to construct that"
 	line "huge building!"
 
-	para "It was a Machop"
+	para "It was a #mon"
 	line "three years ago,"
 
 	para "but the effort"
@@ -332,8 +332,8 @@ VermilionMachokeOwnerText:
 	done
 
 VermilionMachokeText:
-	text "Machoke: Guooh"
-	line "gogogoh!"
+	text "#mon: Ooop"
+	line "papapau!"
 	done
 
 VermilionCitySuperNerdText:
@@ -381,18 +381,18 @@ VermilionCitySailorText:
 	done
 
 VermilionCitySnorlaxSleepingText:
-	text "Snorlax is snoring"
+	text "Snorlax is #mon"
 	line "peacefully…"
 	done
 
 VermilionCityRadioNearSnorlaxText:
 	text "The #gear was"
 	line "placed near the"
-	cont "sleeping Snorlax…"
+	cont "sleeping #mon…"
 
 	para "…"
 
-	para "Snorlax woke up!"
+	para "#mon woke up!"
 	done
 
 VermilionCityBadgeGuyTrainerText:
@@ -462,7 +462,7 @@ PokemonFanClubSignText:
 	done
 
 VermilionCityDiglettsCaveSignText:
-	text "Diglett's Cave"
+	text "#mon's Cave"
 	done
 
 VermilionCityPortSignText:

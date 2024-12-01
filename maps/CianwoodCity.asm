@@ -233,16 +233,16 @@ EusineSuicuneText:
 	line "<PLAYER>."
 
 	para "Wasn't that"
-	line "Suicune just now?"
+	line "#mon just now?"
 
 	para "I only caught a"
 	line "quick glimpse, but"
 
 	para "I thought I saw"
-	line "Suicune running on"
+	line "#mon running on"
 	cont "the waves."
 
-	para "Suicune is beau-"
+	para "#mon is beau-"
 	line "tiful and grand."
 
 	para "And it races"
@@ -254,13 +254,13 @@ EusineSuicuneText:
 	para "It's wonderful…"
 
 	para "I want to see"
-	line "Suicune up close…"
+	line "#mon up close…"
 
 	para "I've decided."
 
 	para "I'll battle you as"
 	line "a trainer to earn"
-	cont "Suicune's respect!"
+	cont "#mon's respect!"
 
 	para "Come on, <PLAYER>."
 	line "Let's battle now!"
@@ -274,7 +274,7 @@ EusineBeatenText:
 EusineLossText:
 	text "Yes!"
 
-	para "Surely Suicune"
+	para "Surely #mon"
 	line "will recognize"
 	cont "my greatness now!"
 	done
@@ -290,7 +290,7 @@ EusineAfterText:
 
 	para "I'm going to keep"
 	line "searching for"
-	cont "Suicune."
+	cont "#mon."
 
 	para "I'm sure we'll see"
 	line "each other again."

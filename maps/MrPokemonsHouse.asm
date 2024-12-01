@@ -343,11 +343,11 @@ endc
 MrPokemonText_GimmeTheScale:
 	text "Hm? That Scale!"
 	line "What's that?"
-	cont "A red Gyarados?"
+	cont "A red #mon?"
 
 	para "It must have kept"
 	line "its coloration as"
-	cont "a Magikarp!"
+	cont "a #mon!"
 
 	para "That could be"
 	line "one of a kind!"

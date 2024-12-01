@@ -117,7 +117,7 @@ ProfIvyScript:
 	para "Can I ask you to"
 	line "to do me a favor?"
 
-	para "This Nidorino"
+	para "This #mon"
 	line "is sick, and my"
 
 	para "Lum Berries aren't"
@@ -133,14 +133,14 @@ ProfIvyScript:
 	line "Thanks, <PLAYER>!"
 
 	para "Let's see if this"
-	line "helps Nidorino…"
+	line "helps #mon…"
 	done
 
 .ThanksText:
 	text "Ivy: Thank you,"
 	line "<PLAYER>!"
 
-	para "Nidorino looks"
+	para "#mon looks"
 	line "much healthier!"
 
 	para "Please take this"
@@ -190,13 +190,13 @@ IvysLabHopeScript:
 
 	para "Right now she's"
 	line "tending to a sick"
-	cont "Nidorino."
+	cont "#mon."
 	done
 
 .Text2:
 	text "Hope: Thanks for"
 	line "helping out with"
-	cont "that Nidorino!"
+	cont "that #mon!"
 	done
 
 IvysLabNidorinoScript:
@@ -213,7 +213,7 @@ IvysLabNidorinoScript:
 	done
 
 .WeakCry:
-	text "Nidorino: Gyun…"
+	text "#mon: Oop…"
 	done
 
 .Healed:
@@ -221,7 +221,7 @@ IvysLabNidorinoScript:
 	end
 
 IvysLabNidorinoText:
-	text "Nidorino: Gyun!"
+	text "#mon: Oopa!"
 	done
 
 IvysLabWindowText:
@@ -266,6 +266,6 @@ PokemonJournalProfIvyScript:
 	line "with Brock of Pew-"
 	cont "ter City to study"
 
-	para "a shiny Onix's"
+	para "a shiny #mon's"
 	line "crystalline body."
 	done

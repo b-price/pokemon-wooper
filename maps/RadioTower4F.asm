@@ -40,7 +40,7 @@ RadioTower4FDJMaryScript:
 	line "I have to suffer"
 	cont "through this?"
 
-	para "Meowth, help me!"
+	para "#mon, help me!"
 	done
 
 .ClearedRockets:
@@ -121,7 +121,7 @@ RadioTower4FDJMaryText_After:
 	done
 
 RadioTowerMeowthText:
-	text "Meowth: Meowth…"
+	text "#mon: Ooop…"
 	done
 
 GruntM10SeenText:

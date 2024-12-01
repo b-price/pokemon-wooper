@@ -53,5 +53,5 @@ CopycatsHouse1FPokefanFScript:
 	done
 
 CopycatsHouse1FBlisseyText:
-	text "Blissey: Bliisii!"
+	text "#mon: Ooopaa!"
 	done

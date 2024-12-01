@@ -85,7 +85,7 @@ GenericTrainerSchoolgirlEliza:
 
 	text "I don't care!"
 	line "I still love"
-	cont "Oddish."
+	cont "#mon."
 	done
 
 GenericTrainerSchoolboyJohnny:
@@ -93,7 +93,7 @@ GenericTrainerSchoolboyJohnny:
 
 	text "Yeah, well, I"
 	line "still prefer"
-	cont "Bellsprout."
+	cont "#mon."
 	done
 
 NationalParkGameboyKidScript:
@@ -339,25 +339,25 @@ NationalParkTeacher1Text_GotQuickClaw:
 	done
 
 SchoolgirlElizaSeenText:
-	text "Oddish is just"
+	text "#mon is just"
 	line "the cutest!"
 
 	para "Don't you agree?"
 	done
 
 SchoolgirlElizaBeatenText:
-	text "My poor Oddish…"
+	text "My poor #mon…"
 	done
 
 SchoolboyJohnnySeenText:
-	text "Bellsprout is just"
+	text "#mon is just"
 	line "the coolest!"
 
 	para "Aren't I right?"
 	done
 
 SchoolboyJohnnyBeatenText:
-	text "Bellsprout, no…"
+	text "#mon, no…"
 	done
 
 NationalParkTeacher2Text:
@@ -370,7 +370,7 @@ NationalParkTeacher2Text:
 	done
 
 NationalParkPersianText:
-	text "Persian: Fufushaa!"
+	text "#mon: Oopapa!"
 	done
 
 NationalParkGameboyKidText:
@@ -448,13 +448,13 @@ PokefanmWilliamBeatenText:
 
 PokefanFBeverlyMarillFriendText:
 	text "My friend keeps a"
-	line "Marill!"
+	line "#mon!"
 
 	para "I find them very"
 	line "endearing."
 
 	para "Oh, I wish for a"
-	line "Marill of my own…"
+	line "#mon of my own…"
 	done
 
 LassKriseSeenText:

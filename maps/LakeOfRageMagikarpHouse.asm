@@ -93,7 +93,7 @@ MagikarpLengthRaterText_LakeOfRageHistory:
 	line "actually a crater"
 
 	para "made by rampaging"
-	line "Gyarados."
+	line "#mon."
 
 	para "The crater filled"
 	line "up with rainwater"
@@ -110,7 +110,7 @@ MagikarpLengthRaterText_LakeOfRageHistory:
 	para "It used to be that"
 	line "you could catch"
 
-	para "lively Magikarp"
+	para "lively #mon"
 	line "there, but…"
 
 	para "I don't understand"
@@ -129,13 +129,13 @@ MagikarpLengthRaterText_WorldsLargestMagikarp:
 	text "Lake of Rage is"
 	line "back to normal."
 
-	para "The Magikarp have"
+	para "The #mon have"
 	line "returned."
 
 	para "I may yet realize"
 	line "my dream of see-"
 	cont "ing the world's"
-	cont "largest Magikarp."
+	cont "largest #mon."
 
 	para "Do you have a Rod?"
 	line "Please help me if"
@@ -144,7 +144,7 @@ MagikarpLengthRaterText_WorldsLargestMagikarp:
 
 MagikarpLengthRaterText_YouHaveAMagikarp:
 	text "Ah, you have a"
-	line "Magikarp! Let's"
+	line "#mon! Let's"
 
 	para "see how big that"
 	line "baby is."
@@ -171,5 +171,5 @@ MagikarpLengthRaterText_Bonus:
 
 MagikarpLengthRaterText_NotMagikarp:
 	text "What? That's not a"
-	line "Magikarp!"
+	line "#mon!"
 	done

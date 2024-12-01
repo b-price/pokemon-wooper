@@ -108,13 +108,13 @@ EcruteakCitySightseerMText:
 	line "an incredible"
 	cont "history."
 
-	para "Smeargle and I"
+	para "#mon and I"
 	line "traveled here to"
 	cont "draw it."
 	done
 
 EcruteakCitySmeargleText:
-	text "Smeargle: Smeer!"
+	text "#mon: Ooop!"
 	done
 
 EcruteakCityLass2Text:

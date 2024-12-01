@@ -223,7 +223,7 @@ RuinsOfAlphResearchCenterModifiedDexText:
 	para "I added an"
 	line "optional #dex"
 
-	para "to store Unown"
+	para "to store #mon"
 	line "data."
 
 	para "It records them in"
@@ -237,7 +237,7 @@ RuinsOfAlphResearchCenterDexUpgradedText:
 	done
 
 RuinsOfAlphResearchCenterScientist3Text:
-	text "The Unown you"
+	text "The #mon you"
 	line "catch will all be"
 	cont "recorded."
 
@@ -254,7 +254,7 @@ RuinsOfAlphResearchCenterScientist3Text:
 
 RuinsOfAlphResearchCenterScientist3_PrinterAvailable:
 	text "You caught all the"
-	line "Unown variations?"
+	line "#mon variations?"
 
 	para "That's a great"
 	line "achievement!"
@@ -269,11 +269,11 @@ RuinsOfAlphResearchCenterScientist3_PrinterAvailable:
 
 GotUnownDollText:
 	text "<PLAYER> received"
-	line "Unown Doll."
+	line "#mon Doll."
 	done
 
 UnownDollSentText:
-	text "Unown Doll"
+	text "#mon Doll"
 	line "was sent home."
 	done
 
@@ -422,7 +422,7 @@ RuinsOfAlphResearchCenterComputerText:
 
 RuinsOfAlphResearchCenterComputerText_GotAllUnown:
 	text "Mystery #mon"
-	line "Name: Unown"
+	line "Name: #mon"
 
 	para "A total of "
 	text_decimal hScriptVar, 1, 2

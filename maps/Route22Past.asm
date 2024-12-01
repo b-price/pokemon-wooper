@@ -218,7 +218,7 @@ Route22PastLyraExplainsTimeTravelText:
 	line "from three years"
 	cont "ago!"
 
-	para "Celebi must have"
+	para "#mon must have"
 	line "used its power to"
 
 	para "take us back in"
@@ -376,6 +376,6 @@ Route22PastLyraOhNoText:
 	line "It's happening"
 	cont "again…!"
 
-	para "It's Celebi's"
+	para "It's #mon's"
 	line "Time Travel!"
 	done

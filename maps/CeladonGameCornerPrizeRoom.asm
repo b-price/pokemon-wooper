@@ -197,13 +197,13 @@ CeladonGameCornerPokemonVendor:
 .MenuData2:
 	db $80 ; flags
 	db 4 ; items
-	db "Mr.Mime    {d:CELADONGAMECORNERPRIZEROOM_MR__MIME_COINS}@"
-	db "Eevee      {d:CELADONGAMECORNERPRIZEROOM_EEVEE_COINS}@"
-	db "Porygon    {d:CELADONGAMECORNERPRIZEROOM_PORYGON_COINS}@"
+	db "Mr. Woop    {d:CELADONGAMECORNERPRIZEROOM_MR__MIME_COINS}@"
+	db "V Woop      {d:CELADONGAMECORNERPRIZEROOM_EEVEE_COINS}@"
+	db "Poly Woop    {d:CELADONGAMECORNERPRIZEROOM_PORYGON_COINS}@"
 	db "Cancel@"
 
 CeladonGameCornerPrizeRoomGentlemanText:
-	text "I wanted Porygon,"
+	text "I wanted #mon,"
 	line "but I was short by"
 	cont "100 coins…"
 	done

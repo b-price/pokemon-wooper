@@ -16,7 +16,7 @@ VermilionHouseDiglettsCaveSpeechHouse_MapScriptHeader:
 
 VermilionDiglettsCaveSpeechHouseGentlemanText:
 	text "Over many years,"
-	line "Diglett dug a"
+	line "#mon dug a"
 	cont "large tunnel."
 
 	para "That tunnel goes"

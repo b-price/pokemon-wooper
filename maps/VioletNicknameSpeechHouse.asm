@@ -33,7 +33,7 @@ VioletNicknameSpeechHouseTeacherText:
 	done
 
 VioletNicknameSpeechHouseLassText:
-	text "I call my Eevee"
+	text "I call my #mon"
 	line "Strawberry!"
 	done
 
@@ -49,5 +49,5 @@ VioletNicknameSpeechHouseGrampsText:
 	done
 
 VioletNicknameSpeechHouseBirdText:
-	text "Strawberry: Eevee!"
+	text "Strawberry: Oopa!"
 	done

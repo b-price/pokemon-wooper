@@ -14,14 +14,14 @@ DecorationNames:
 	li "Wii"
 	li "Gold Trophy"
 	li "Silver Trophy"
-	li "Surf Pikachu Doll"
+	li "Surf Wooper Doll" ; Pikachu
 	li " Bed"
 	li " Carpet"
 	li " Poster"
 	li " Doll"
 	li "Big "
 	li "Feathery"
-	li "Pikachu"
+	li "Wooper" ; Pikachu
 	li "Pink"
 	li "PolkaDot"
 	li "Red"

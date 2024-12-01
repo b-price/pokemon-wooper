@@ -336,7 +336,7 @@ Bug_catcherArnie1BeatenText:
 	done
 
 BugCatcherArnieAfterBattleText:
-	text "My Venonat won me"
+	text "My #mon won me"
 	line "the Bug-Catching"
 
 	para "Contest at the"
@@ -345,7 +345,7 @@ BugCatcherArnieAfterBattleText:
 
 BugCatcherArnieYanmaText:
 	text "Wow… Look at all"
-	line "those Yanma!"
+	line "those #mon!"
 
 	para "I'm so blown away,"
 	line "I can't move."

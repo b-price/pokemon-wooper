@@ -106,7 +106,7 @@ GenericTrainerHikerGerard:
 	text "This place makes"
 	line "me so nervous."
 
-	para "What if a Diglett"
+	para "What if a #mon"
 	line "attacks me out of"
 	cont "nowhere?"
 	done
@@ -168,13 +168,13 @@ GenericTrainerBlackbeltInigo:
 GenericTrainerEngineerSmith:
 	generictrainer ENGINEER, SMITH, EVENT_BEAT_ENGINEER_SMITH, .SeenText, .BeatenText
 
-	text "Those Diglett are"
+	text "Those #mon are"
 	line "just natural"
 	cont "engineers."
 	done
 
 .SeenText:
-	text "How did Diglett"
+	text "How did #mon"
 	line "create such a long"
 	cont "tunnel?"
 	done
@@ -185,7 +185,7 @@ GenericTrainerEngineerSmith:
 
 DiglettsCaveCooltrainerfText:
 	text "Look at all these"
-	line "cute Diglett!"
+	line "cute #mon!"
 
 	para "I swear I saw one"
 	line "with a blue nose!"
@@ -193,7 +193,7 @@ DiglettsCaveCooltrainerfText:
 
 DiglettsCavePokefanMText:
 if DEF(FAITHFUL)
-	text "A bunch of Diglett"
+	text "A bunch of #mon"
 	line "popped out of the"
 
 	para "ground! That was"
@@ -206,8 +206,8 @@ else
 	para "ally affected some"
 	line "#mon species."
 
-	para "Diglett and Dug-"
-	line "trio burrowing"
+	para "#mon of the gr-"
+	line "ound burrowing"
 	cont "underground got"
 
 	para "covered in strands"
