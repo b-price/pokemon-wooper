@@ -1,6 +1,8 @@
-	frame 0, 04
-	frame 2, 12
+	setrepeat 2
 	frame 1, 08
-	frame 2, 28
+	frame 2, 08
+	dorepeat 1
+	frame 0, 08
+	frame 4, 08
 	endanim
-; 0xd0db3
+; 0xd1397

@@ -1,10 +1,8 @@
-	frame 1, 12
-	frame 2, 10
-	frame 3, 06
-	frame 4, 14
-	frame 6, 12
-	frame 7, 10
-	frame 8, 06
-	frame 0, 14
+	setrepeat 2
+	frame 1, 08
+	frame 2, 08
+	dorepeat 1
+	frame 0, 08
+	frame 4, 08
 	endanim
-; 0xd14d9
+; 0xd1397
