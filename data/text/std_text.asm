@@ -28,7 +28,7 @@ PokeComNurseMornText:
 	text "Good morning!"
 
 	para "This is the #-"
-	line "mon Communication"
+	line "er Communication"
 
 	para "Center--or the"
 	line "#Com Center."
@@ -38,7 +38,7 @@ PokeComNurseDayText:
 	text "Hello!"
 
 	para "This is the #-"
-	line "mon Communication"
+	line "er Communication"
 
 	para "Center--or the"
 	line "#Com Center."
@@ -48,7 +48,7 @@ PokeComNurseEveText:
 	text "Good evening!"
 
 	para "This is the #-"
-	line "mon Communication"
+	line "er Communication"
 
 	para "Center--or the"
 	line "#Com Center."
@@ -59,7 +59,7 @@ PokeComNurseNiteText:
 	line "working so late."
 
 	para "This is the #-"
-	line "mon Communication"
+	line "er Communication"
 
 	para "Center--or the"
 	line "#Com Center."

@@ -381,7 +381,7 @@ VermilionCitySailorText:
 	done
 
 VermilionCitySnorlaxSleepingText:
-	text "Snorlax is #mon"
+	text "#mon is sleeping"
 	line "peacefully…"
 	done
 

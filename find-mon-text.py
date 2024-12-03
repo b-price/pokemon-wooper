@@ -45,10 +45,13 @@ pokemon_list = [
     "Tyranitar", "Lugia", "Ho-Oh", "Celebi", "Glaceon", "Leafeon",
     "Sylveon", "Tangrowth", "Togekiss", "Weavile", "Honchcrow", "Mismagius",
     "Electivire", "Magmortar", "Magnezone", "Rhyperior", "Porygon-Z", "Yanmega",
-    "Gliscor", "Mamoswine", "Munchlax"
+    "Gliscor", "Mamoswine", "Munchlax", "Pokemon", "mon"
 ]
 
-def find_words_in_files(directory, words):
+context = ["para ", "line ", "text ", "cont "]
+not_context = ["writetext", "showtext", "jumptext", "jumpopenedtext", "showcrytext", "#mon"]
+
+def find_words_in_files(directory, target_words, context_words, exclude_words):
     """
     Search for words in files within a directory.
 
@@ -60,19 +63,26 @@ def find_words_in_files(directory, words):
         dict: A dictionary where keys are filenames and values are lists of matching words.
     """
     matches = {}
-
-    # Convert words list to a set for faster searching
-    words_set = set(words)
+    target_words_set = set(target_words)
+    context_words_set = set(context_words)
+    exclude_words_set = set(exclude_words)
 
     for root, _, files in os.walk(directory):
         for file in files:
             file_path = os.path.join(root, file)
             try:
                 with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
-                    content = f.read()
+                    lines = f.readlines()
 
-                    # Find matching words in the file content
-                    file_matches = [word for word in words_set if word in content]
+                    file_matches = []
+                    for line in lines:
+                        # Check if any target word is in the line
+                        if any(target_word in line for target_word in target_words_set):
+                            # Check if the line also contains any context word
+                            if any(context_word in line for context_word in context_words_set):
+                                if not any(exclude_word in line for exclude_word in exclude_words_set):
+                                    file_matches.append(line.strip())
+
                     if file_matches:
                         matches[file_path] = file_matches
             except Exception as e:
@@ -82,10 +92,12 @@ def find_words_in_files(directory, words):
 
 # Example usage
 if __name__ == "__main__":
-    directory_path = "./data/pokemon/dex_entries"
+    directory_path = "./data"
     words_to_search = pokemon_list
+    context_words = context
+    exclude_words = not_context
 
-    result = find_words_in_files(directory_path.strip(), [word.strip() for word in words_to_search])
+    result = find_words_in_files(directory_path.strip(), [word.strip() for word in words_to_search], context_words, exclude_words)
 
 
     if result:

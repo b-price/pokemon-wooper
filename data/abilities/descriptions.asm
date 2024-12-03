@@ -207,7 +207,7 @@ CloudNineDescription:
 
 CompoundEyesDescription:
 	db    "Boosts the Poké-"
-	next1 "mon's accuracy.@"
+	next1 "er's accuracy.@"
 
 InsomniaDescription:
 VitalSpiritDescription:
@@ -582,8 +582,8 @@ WeakArmorDescription:
 	next1 "trade Def for Spd.@"
 
 LightMetalDescription:
-	db    "Halves the Poké-"
-	next1 "mon's weight.@"
+	db    "Halves the #-"
+	next1 "er's weight.@"
 
 MultiscaleDescription:
 	db    "Reduces damage"

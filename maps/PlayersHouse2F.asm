@@ -50,7 +50,7 @@ PlayersHousePoster:
 PlayersHouseRadio:
 
 if DEF(DEBUG)
-
+;
 	opentext
 	; time
 	special Special_SetDayOfWeek
@@ -63,7 +63,7 @@ if DEF(DEBUG)
 	setflag ENGINE_EXPN_CARD
 	; pokedex
 	setflag ENGINE_POKEDEX
-;	setflag ENGINE_UNOWN_DEX
+	setflag ENGINE_UNOWN_DEX
 	; judge machine
 	setflag ENGINE_JUDGE_MACHINE
 	; all key items
@@ -255,7 +255,7 @@ endr
 ;	givepoke ZAPDOS, GALARIAN_FORM, 50
 ;	givepoke MOLTRES, GALARIAN_FORM, 50
 	; fill pokedex
-;	callasm FillPokedex
+	callasm FillPokedex
 	; intro events
 	addcellnum PHONE_MOM
 	setmapscene PLAYERS_HOUSE_1F, $1
@@ -277,15 +277,15 @@ endr
 
 FillPokedex:
 	ld a, 1
-;	ld [wUnlockedUnownMode], a
+	ld [wUnlockedUnownMode], a
 	ld [wFirstUnownSeen], a
 	ld [wFirstMagikarpSeen], a
-;	ld hl, wUnownDex
-;	ld a, 1
-;rept NUM_UNOWN
-;	ld [hli], a
-;	inc a
-;endr
+	ld hl, wUnownDex
+	ld a, 1
+rept NUM_UNOWN
+	ld [hli], a
+	inc a
+endr
 	ld hl, wPokedexSeen
 	call .Fill
 	ld hl, wPokedexCaught

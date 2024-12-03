@@ -40,7 +40,7 @@ UnknownText_0x55b7c:
 
 	para "This is a free"
 	line "gift. Have a #-"
-	cont "mon hold it."
+	cont "er hold it."
 	done
 
 UnknownText_0x55bd3:
