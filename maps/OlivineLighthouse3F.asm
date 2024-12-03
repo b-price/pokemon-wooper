@@ -222,7 +222,7 @@ SailorTerrellBeatenText:
 GentlemanPrestonSeenText:
 	text "I travel the world"
 	line "to train my #-"
-	cont "mon. I wish to"
+	cont "er. I wish to"
 	cont "battle with you."
 	done
 

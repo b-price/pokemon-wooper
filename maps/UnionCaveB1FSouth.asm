@@ -141,7 +141,7 @@ GenericTrainerFirebreatherJay:
 	line "breathe fire by"
 
 	para "watching my #-"
-	line "mon!"
+	line "er!"
 	done
 
 .BeatenText:

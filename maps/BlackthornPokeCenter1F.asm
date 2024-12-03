@@ -136,7 +136,7 @@ BlackthornPokeCenter1FTwinText:
 	line "move I just had"
 
 	para "to teach my #-"
-	line "mon."
+	line "er."
 
 	para "So I got the Move"
 	line "Deleter to make it"

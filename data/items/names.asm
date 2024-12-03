@@ -248,7 +248,7 @@ endc
 	li "Rare Bone"
 	li "Silver Leaf"
 	li "Gold Leaf"
-	li "SlowpokeTail"
+	li "Wooper Tail"
 	li "Bottle Cap"
 	li "Helix Fossil"
 	li "Dome Fossil"

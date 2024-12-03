@@ -435,7 +435,7 @@ PokefanBeverlyCuteMonText:
 
 PokefanmWilliamSeenText:
 	text "We adore our #-"
-	line "mon, even if they"
+	line "er, even if they"
 	cont "dislike us."
 
 	para "That's what being"

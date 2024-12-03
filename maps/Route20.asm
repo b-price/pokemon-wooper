@@ -177,7 +177,7 @@ GenericTrainerPicnickerCheyenne:
 	generictrainer PICNICKER, CHEYENNE, EVENT_BEAT_PICNICKER_CHEYENNE, .SeenText, .BeatenText
 
 	text "If I'm with #-"
-	line "mon, I don't mind"
+	line "er, I don't mind"
 	cont "losing so much!"
 	done
 
@@ -188,7 +188,7 @@ GenericTrainerPicnickerCheyenne:
 
 	para "Now I love playing"
 	line "outside with #-"
-	cont "mon!"
+	cont "er!"
 	done
 
 .BeatenText:
@@ -227,7 +227,7 @@ GenericTrainerCamperPedro:
 .SeenText:
 	text "Have you ever gone"
 	line "camping with #-"
-	cont "mon?"
+	cont "er'"
 	done
 
 .BeatenText:

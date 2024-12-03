@@ -243,7 +243,7 @@ GenericTrainerPsychicNorman:
 	generictrainer PSYCHIC_T, NORMAN, EVENT_BEAT_PSYCHIC_NORMAN, PsychicNormanSeenText, PsychicNormanBeatenText
 
 	text "You know how #-"
-	line "mon have different"
+	line "er have different"
 	cont "abilities?"
 
 	para "People are like"

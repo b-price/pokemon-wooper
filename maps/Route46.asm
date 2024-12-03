@@ -242,7 +242,7 @@ HikerBaileyBeatenText:
 
 CamperTedSeenText:
 	text "I'm raising #-"
-	line "mon too!"
+	line "er too!"
 
 	para "Will you battle"
 	line "with me?"

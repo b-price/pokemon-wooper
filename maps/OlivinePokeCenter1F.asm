@@ -106,7 +106,7 @@ OlivinePokeCenter1FFisherText:
 	cont "looks weak, but he"
 
 	para "taught my #-"
-	line "mon Strength."
+	line "er Strength."
 
 	para "Now it can move"
 	line "big boulders."

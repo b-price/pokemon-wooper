@@ -67,7 +67,7 @@ ShamoutiHotelRestaurantChallengeScript:
 	line "take, not just in"
 
 	para "food, but in #-"
-	line "mon battles."
+	line "er battles."
 
 	para "Every day we have"
 	line "a new menu."

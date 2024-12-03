@@ -459,7 +459,7 @@ Text_Route31WrongMail:
 
 Text_Route31MissingMail:
 	text "Why is this #-"
-	line "mon so special?"
+	line "er so special?"
 
 	para "It doesn't have"
 	line "any Mail."

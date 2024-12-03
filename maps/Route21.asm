@@ -73,7 +73,7 @@ GenericTrainerSwimmerfKendra:
 	text "I wonder if any"
 	line "place sells swim-"
 	cont "suits for #-"
-	cont "mon?"
+	cont "er'"
 	done
 
 .SeenText:
@@ -263,7 +263,7 @@ GenericTrainerBird_keeperEaston:
 	text "Bird Keepers are"
 	line "so wonderful with"
 	cont "their bird #-"
-	cont "mon!"
+	cont "er!"
 	done
 
 .BeatenText:

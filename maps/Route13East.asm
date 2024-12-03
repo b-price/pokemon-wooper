@@ -53,7 +53,7 @@ GenericTrainerBird_keeperBret:
 
 Bird_keeperBretSeenText:
 	text "Check out my #-"
-	line "mon. Just look at"
+	line "er. Just look at"
 
 	para "their coloring and"
 	line "their plumage."

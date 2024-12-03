@@ -113,7 +113,7 @@ PokemaniacLarrySeenText:
 
 PokemaniacLarryBeatenText:
 	text "Ugh. My poor #-"
-	line "mon…"
+	line "er…"
 	done
 
 HikerDanielSeenText:

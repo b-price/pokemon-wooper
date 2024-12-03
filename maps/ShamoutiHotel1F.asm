@@ -116,7 +116,7 @@ ShamoutiHotel1FLadyText:
 
 	para "who will “Hyper"
 	line "Train” your #-"
-	cont "mon--bringing out"
+	cont "er--bringing out"
 
 	para "its full poten-"
 	line "tial--just for a"

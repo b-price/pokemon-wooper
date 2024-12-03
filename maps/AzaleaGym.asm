@@ -85,7 +85,7 @@ AzaleaGymBugsyScript:
 	line "U-turn."
 
 	para "It lets your #-"
-	line "mon attack, then"
+	line "er attack, then"
 
 	para "switch out right"
 	line "away."

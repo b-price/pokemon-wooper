@@ -303,7 +303,7 @@ PlateauLyraText3:
 
 	para "You beat me--now"
 	line "go beat the #-"
-	cont "mon League!"
+	cont "er League!"
 	done
 
 PlateauRivalApproachesMovement:

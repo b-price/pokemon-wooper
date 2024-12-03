@@ -530,7 +530,7 @@ CooltrainermAllenSeenText:
 	cont "looking at you."
 
 	para "I'm good at #-"
-	line "mon, and I can see"
+	line "er, and I can see"
 	cont "that you are too."
 	done
 

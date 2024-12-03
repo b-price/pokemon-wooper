@@ -123,7 +123,7 @@ RuinsOfAlphAerodactylChamberWallHoleText:
 
 RuinsOfAlphAerodactylChamberDescriptionText:
 	text "This flying #-"
-	line "mon attacked its"
+	line "er attacked its"
 
 	para "prey with saw-like"
 	line "fangs."

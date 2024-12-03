@@ -862,16 +862,16 @@ ThickClubDesc:
 	next "sort. Sell low.@"
 
 LuckyPunchDesc:
-	db   "Ups critical hit"
-	next "ratio of Chansey.@"
+	db   "Ups crit ratio of"
+	next "a certain #mon.@"
 
 MetalPowderDesc:
 	db   "Raises Defense of"
-	next "Ditto. (Hold)@"
+	next "a certain #mon.@"
 
 QuickPowderDesc:
 	db   "Raises Speed of"
-	next "Ditto. (Hold)@"
+	next "a certain #mon.@"
 
 ArmorSuitDesc:
 	db   "A suit of armor"
@@ -1163,11 +1163,11 @@ FlowerMailDesc:
 	next "(Hold)@"
 
 SurfMailDesc:
-	db   "Lapras-print Mail."
+	db   "#mon-print Mail."
 	next "(Hold)@"
 
 LiteBlueMailDesc:
-	db   "Dratini-print"
+	db   "#mon-print"
 	next "Mail. (Hold)@"
 
 PortraitMailDesc:
@@ -1179,11 +1179,11 @@ LovelyMailDesc:
 	next "(Hold)@"
 
 EonMailDesc:
-	db   "Eevee-print Mail."
+	db   "#mon-print Mail."
 	next "(Hold)@"
 
 MorphMailDesc:
-	db   "Ditto-print Mail."
+	db   "#mon-print Mail."
 	next "(Hold)@"
 
 BlueSkyMailDesc:
@@ -1191,11 +1191,11 @@ BlueSkyMailDesc:
 	next "(Hold)@"
 
 MusicMailDesc:
-	db   "Natu-print Mail."
+	db   "#mon-print Mail."
 	next "(Hold)@"
 
 MirageMailDesc:
-	db   "Mew-print Mail."
+	db   "#mon-print Mail."
 	next "(Hold)@"
 
 EjectButtonDesc:
@@ -1300,7 +1300,7 @@ SecretPotionDesc:
 
 RedScaleDesc:
 	db   "A scale from the"
-	next "red Gyarados.@"
+	next "red #mon.@"
 
 CardKeyDesc:
 	db   "Opens shutters in"

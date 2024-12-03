@@ -15,10 +15,10 @@ DecorationNames:
 	li "Gold Trophy"
 	li "Silver Trophy"
 	li "Surf Wooper Doll" ; Pikachu
-	li " Bed"
-	li " Carpet"
-	li " Poster"
-	li " Doll"
+	li "Woop Bed"
+	li "Woop Carpet"
+	li "Woop Poster"
+	li "Woop Doll"
 	li "Big "
 	li "Feathery"
 	li "Wooper" ; Pikachu

@@ -45,7 +45,7 @@ Route10PokeCenter1FGymGuyScript:
 	line "Manager is looking"
 
 	para "for a strong #-"
-	line "mon trainer."
+	line "er trainer."
 
 	para "He needs help"
 	line "getting back"

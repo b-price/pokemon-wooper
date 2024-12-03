@@ -35,7 +35,7 @@ CeladonUniversityWillowsOfficeWillowText:
 	line "them in classes."
 
 	para "I also study #-"
-	line "mon habitats and"
+	line "er habitats and"
 	cont "distribution."
 
 	para "I'm very busy, but"

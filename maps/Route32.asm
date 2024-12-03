@@ -380,7 +380,7 @@ Route32LyraIntroducesHiddenGrottoesOutroScript:
 	cont "sides."
 
 	para "Some amazing #-"
-	line "mon might be"
+	line "er might be"
 	cont "hiding in there!"
 
 	para "I wish I had time"
@@ -452,7 +452,7 @@ GenericTrainerFisherJustin:
 	line "The essence of"
 
 	para "fishing and #-"
-	line "mon is the same."
+	line "er is the same."
 	done
 
 TrainerFisherRalph1:

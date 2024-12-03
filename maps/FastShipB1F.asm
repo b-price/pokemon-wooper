@@ -176,7 +176,7 @@ GenericTrainerSchoolboyRicky:
 	generictrainer SCHOOLBOY, RICKY, EVENT_BEAT_SCHOOLBOY_RICKY, SchoolboyRickySeenText, SchoolboyRickyBeatenText
 
 	text "I read in a #-"
-	line "mon Journal that"
+	line "er Journal that"
 
 	para "there are four of"
 	line "those stone panels"

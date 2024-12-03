@@ -49,7 +49,7 @@ BakerChelsieAfterText:
 	line "mins to my bread."
 
 	para "They make my #-"
-	line "mon stronger."
+	line "er stronger."
 	done
 
 OlivineCafeLyraScript:

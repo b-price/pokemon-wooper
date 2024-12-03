@@ -138,7 +138,7 @@ IcePathB1FSkierText:
 
 Text_IcePathB1FTutorIcyWind:
 	text "I'll teach a #-"
-	line "mon of yours to"
+	line "er of yours to"
 
 	para "use Icy Wind if"
 	line "you trade me a"

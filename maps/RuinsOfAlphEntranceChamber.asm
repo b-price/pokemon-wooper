@@ -17,6 +17,5 @@ RuinsOfAlphEntranceChamber_MapScriptHeader:
 
 RuinsofAlphStatueText:
 	text "It's a replica of"
-	line "an ancient #-"
-	cont "mon."
+	line "an ancient #mon."
 	done

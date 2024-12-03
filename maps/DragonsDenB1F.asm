@@ -230,7 +230,7 @@ DragonsDenB1FSilverScript:
 	line "ciplined to become"
 
 	para "the greatest #-"
-	line "mon trainer…"
+	line "er trainer…"
 	done
 
 .Training2Text:

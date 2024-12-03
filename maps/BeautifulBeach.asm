@@ -121,7 +121,7 @@ GenericTrainerSightseerfRosie:
 
 .BeatenText:
 	text "I guess the #-"
-	line "mon Center is"
+	line "er Center is"
 	cont "first."
 	done
 

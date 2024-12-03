@@ -157,7 +157,7 @@ GenericTrainerSuperNerdStan:
 
 	para "It's also not"
 	line "known if the #-"
-	cont "mon statues have"
+	cont "er statues have"
 	cont "any meaning."
 
 	para "It's all one big"
@@ -229,7 +229,7 @@ RuinsOfAlphOutsideScientistText:
 
 	para "If those drawings"
 	line "are really #-"
-	cont "mon, there should"
+	cont "er, there should"
 	cont "be many more."
 
 	para "I know! Let me up-"

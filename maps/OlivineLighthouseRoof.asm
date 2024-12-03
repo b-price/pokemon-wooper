@@ -77,7 +77,7 @@ OlivineLighthouseRoofSkylaScript:
 
 .WaitingText:
 	text "I saw a hurt #-"
-	line "mon from my plane,"
+	line "er from my plane,"
 
 	para "but I don't have"
 	line "anything that can"
@@ -96,7 +96,7 @@ OlivineLighthouseRoofSkylaScript:
 
 	para "Oh, I see! You're"
 	line "<PLAYER>, a #-"
-	cont "mon trainer."
+	cont "er trainer."
 
 	para "I'm Skyla, a cargo"
 	line "pilot from the"
@@ -114,7 +114,7 @@ OlivineLighthouseRoofSkylaScript:
 
 .ChallengeText:
 	text "I saw a hurt #-"
-	line "mon from my plane,"
+	line "er from my plane,"
 
 	para "but it looks just"
 	line "fine now!"

@@ -29,7 +29,7 @@ GenericTrainerBird_keeperToby:
 	line "the Yellow Forest"
 
 	para "to teach my #-"
-	line "mon how to Fly."
+	line "er how to Fly."
 	done
 
 GenericTrainerSailorHarry:
@@ -253,7 +253,7 @@ GenericTrainerBeautyValencia:
 	generictrainer BEAUTY, VALENCIA, EVENT_BEAT_BEAUTY_VALENCIA, BeautyValenciaSeenText, BeautyValenciaBeatenText
 
 	text "When I see #-"
-	line "mon, it seems to"
+	line "er, it seems to"
 	cont "soothe my nerves."
 	done
 

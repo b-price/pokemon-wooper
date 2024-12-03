@@ -134,7 +134,7 @@ ShamoutiPokeCenter1FIvyScript:
 
 	para "I'm studying local"
 	line "variation in #-"
-	cont "mon phenotypes."
+	cont "er phenotypes."
 
 	para "Did you know that"
 	line "some wild #mon"

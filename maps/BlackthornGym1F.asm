@@ -168,7 +168,7 @@ ClairPokemonLeagueDirectionsText:
 
 	para "Don't you dare"
 	line "lose at the #-"
-	cont "mon League!"
+	cont "er League!"
 
 	para "If you do, I'll"
 	line "feel even worse"

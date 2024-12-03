@@ -418,7 +418,7 @@ JudgeMachineEngineerFinishedText:
 	line "AI technology to"
 
 	para "evaluate a #-"
-	line "mon's inherent"
+	line "er's inherent"
 	cont "potential, as well"
 
 	para "as the effort it's"

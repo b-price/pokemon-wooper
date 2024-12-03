@@ -1252,7 +1252,7 @@ ElmGiveEverstoneText2:
 	cont "won't evolve."
 
 	para "Give it to a #-"
-	line "mon you don't want"
+	line "er you don't want"
 	cont "to evolve."
 	done
 

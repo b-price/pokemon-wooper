@@ -88,7 +88,7 @@ ScaryCave1FMiraScript:
 .YesText:
 	text "Yes! Mira will"
 	line "show you her #-"
-	cont "mon!"
+	cont "er!"
 	done
 
 .NoText:

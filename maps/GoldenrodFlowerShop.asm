@@ -221,7 +221,7 @@ DescribeMulchText:
 	line "mix of high-qual-"
 
 	para "ity soil and #-"
-	line "mon's… er… you"
+	line "er's… er… you"
 
 	para "know. It's full"
 	line "of nutrients!"

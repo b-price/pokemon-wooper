@@ -174,5 +174,5 @@ DirectorAfterText:
 	line "Radio Tower…"
 
 	para "And all the #-"
-	line "mon nationwide!"
+	line "er nationwide!"
 	done

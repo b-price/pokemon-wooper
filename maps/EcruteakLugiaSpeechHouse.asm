@@ -24,7 +24,7 @@ EcruteakLugiaSpeechHouseGrampsText:
 	line "turned black. A"
 
 	para "giant flying #-"
-	line "mon was blocking"
+	line "er was blocking"
 	cont "out the sun."
 
 	para "I wonder what that"

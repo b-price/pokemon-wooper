@@ -55,7 +55,7 @@ CeladonUniversity2FCooltrainerfScript:
 .Text5:
 	text "Antidotes cure"
 	line "poison in #-"
-	cont "mon, but a person"
+	cont "er, but a person"
 
 	para "would get sick"
 	line "by drinking one."

@@ -22,7 +22,7 @@ GenericTrainerFisherKyle:
 	line "on the Rod when"
 
 	para "you hook a #-"
-	line "mon…"
+	line "er…"
 	done
 
 FisherKyleSeenText:

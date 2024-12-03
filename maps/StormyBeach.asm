@@ -57,7 +57,7 @@ GenericTrainerBird_keeperJulian:
 .SeenText:
 	text "I'm training my"
 	line "Flying-type #-"
-	cont "mon here."
+	cont "er here."
 
 	para "Want to help me?"
 	done

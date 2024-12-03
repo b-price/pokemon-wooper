@@ -30,7 +30,7 @@ GenericTrainerLassConnie:
 	line "would be worried"
 
 	para "if their own #-"
-	line "mon were hurt."
+	line "er were hurt."
 
 	para "I'll pray for the"
 	line "#mon here, so"

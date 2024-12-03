@@ -1184,7 +1184,7 @@ Pokedex_DrawOptionScreenBG:
 	next "A to Z Mode@"
 
 .UnownMode:
-	db "Unown Mode@"
+	db "Alph Mode@"
 
 Pokedex_DrawSearchScreenBG:
 	call Pokedex_FillBackgroundColor2

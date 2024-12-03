@@ -65,7 +65,7 @@ DiglettsCaveFossilManiacScript:
 	cont "deal for ya!"
 
 	para "You know how #-"
-	line "mon fossils turn"
+	line "er fossils turn"
 	cont "up in rocks?"
 
 	para "If you find one,"

@@ -40,7 +40,7 @@ GenericTrainerKimono_girlSayo:
 	line "tant for both"
 
 	para "dancing and #-"
-	line "mon."
+	line "er."
 	done
 
 GenericTrainerKimono_girlZuki:

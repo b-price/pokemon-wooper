@@ -151,7 +151,7 @@ RadioTower3FSuperNerdText:
 
 RadioTower3FGymGuideText_Rockets:
 	text "To trainers, #-"
-	line "mon are their"
+	line "er are their"
 	cont "beloved partners."
 
 	para "It's terrible how"

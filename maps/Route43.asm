@@ -496,7 +496,7 @@ PokemaniacBrent1SeenText:
 
 PokemaniacBrent1BeatenText:
 	text "Oh, my poor #-"
-	line "mon! Darlings!"
+	line "er! Darlings!"
 	done
 
 PokemaniacBrentAfterBattleText:
@@ -514,7 +514,7 @@ PokemaniacRonSeenText:
 	cont "#mon!"
 
 	para "Darn it! My #-"
-	line "mon's great!"
+	line "er's great!"
 	done
 
 PokemaniacRonBeatenText:

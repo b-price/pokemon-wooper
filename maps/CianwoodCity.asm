@@ -200,7 +200,7 @@ CianwoodCityLassText:
 	line "Leader, spars with"
 
 	para "his fighting #-"
-	line "mon."
+	line "er."
 	done
 
 CianwoodCityRocketText:

@@ -122,7 +122,7 @@ Text_CeladonCityTutorNoSilverLeaf:
 Text_CeladonCityTutorQuestion:
 	text "You wish me to"
 	line "teach your #-"
-	cont "mon Swagger?"
+	cont "er Swagger?"
 	done
 
 Text_CeladonCityTutorRefused:
@@ -131,7 +131,7 @@ Text_CeladonCityTutorRefused:
 
 Text_CeladonCityTutorTaught:
 	text "Behold! Your #-"
-	line "mon has learned"
+	line "er has learned"
 	cont "to Swagger!"
 	done
 

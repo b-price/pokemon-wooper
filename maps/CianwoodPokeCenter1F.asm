@@ -80,7 +80,7 @@ CianwoodGymGuyScript:
 	cont "Psychic #mon."
 
 	para "Wipe out his #-"
-	line "mon before they"
+	line "er before they"
 
 	para "can use their"
 	line "physical strength."

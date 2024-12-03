@@ -215,7 +215,7 @@ MountMoonSilverTextAfter:
 
 	para "I'm going to be"
 	line "the greatest #-"
-	cont "mon trainer ever."
+	cont "er trainer ever."
 
 	para "Because these guys"
 	line "are behind me."

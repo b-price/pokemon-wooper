@@ -147,7 +147,7 @@ GenericTrainerRocketScientistRoss:
 
 	text "A radio signal"
 	line "that drives #-"
-	cont "mon mad…"
+	cont "er mad…"
 
 	para "My experiment is a"
 	line "complete success."

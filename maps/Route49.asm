@@ -78,7 +78,7 @@ GenericTrainerTamerJordan:
 
 .SeenText:
 	text "Be careful! #-"
-	line "mon here can be"
+	line "er here can be"
 	cont "really wild!"
 	done
 

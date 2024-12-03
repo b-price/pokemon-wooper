@@ -20,7 +20,7 @@ CeruleanTradeSpeechHouse_MapScriptHeader:
 CeruleanTradeSpeechHouseGrannyText:
 	text "My husband lives"
 	line "happily with #-"
-	cont "mon he got through"
+	cont "er he got through"
 	cont "trades."
 	done
 

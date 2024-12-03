@@ -28,7 +28,7 @@ PalletTownFlyPoint:
 
 PalletTownTeacherText:
 	text "I'm raising #-"
-	line "mon too."
+	line "er too."
 
 	para "They serve as my"
 	line "private guards."

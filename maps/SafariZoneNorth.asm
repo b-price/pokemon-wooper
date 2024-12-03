@@ -106,7 +106,7 @@ BattleGirlPadmaBeatenText:
 
 YoungsterTylerSeenText:
 	text "You can find #-"
-	line "mon anywhere!"
+	line "er anywhere!"
 
 	para "In grass, in"
 	line "water, or up a"

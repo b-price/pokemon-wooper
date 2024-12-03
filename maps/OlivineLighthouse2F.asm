@@ -175,7 +175,7 @@ GentlemanAlfredBeatenText:
 
 GentlemanAlfredAfterBattleText:
 	text "Up top is a #-"
-	line "mon that keeps the"
+	line "er that keeps the"
 	cont "Lighthouse lit."
 
 	para "But I hear that"
@@ -187,7 +187,7 @@ GentlemanAlfredAfterBattleText:
 
 GentlemanAlfredFinalText:
 	text "Up top is a #-"
-	line "mon that keeps the"
+	line "er that keeps the"
 	cont "Lighthouse lit."
 
 	para "You helped cure"

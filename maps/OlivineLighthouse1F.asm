@@ -49,7 +49,7 @@ OlivineLighthouse1FSailorScript:
 
 OlivineLighthouse1FPokefanFText:
 	text "In the past, #-"
-	line "mon used to light"
+	line "er used to light"
 
 	para "the sea around"
 	line "Olivine at night."

@@ -32,7 +32,7 @@ GenericTrainerSwimmerfKaylee:
 
 	text "There's supposed"
 	line "to be a big #-"
-	cont "mon deep beneath"
+	cont "er deep beneath"
 	cont "Whirl Islands."
 
 	para "I wonder what it"

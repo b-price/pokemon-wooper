@@ -492,7 +492,7 @@ Route34RichBoyIrvingScript:
 
 	para "I'm rich, so I"
 	line "bought my #-"
-	cont "mon with cash!"
+	cont "er with cash!"
 
 	para "They're strong"
 	line "enough that we"

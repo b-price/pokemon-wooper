@@ -205,7 +205,7 @@ SageLiBeatenText:
 
 SageLiTakeThisFlashText:
 	text "You and your #-"
-	line "mon should have"
+	line "er should have"
 
 	para "no problem using"
 	line "this move."

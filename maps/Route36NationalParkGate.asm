@@ -380,7 +380,7 @@ BugCatchingContestant5BStillCompetingText:
 
 BugCatchingContestant6BText:
 	text "Barry: That #-"
-	line "mon you caught…"
+	line "er you caught…"
 	cont "it's awesome!"
 	done
 

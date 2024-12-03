@@ -79,7 +79,7 @@ TinTowerSignText:
 	text "Bell Tower"
 
 	para "A legendary #-"
-	line "mon is said to"
+	line "er is said to"
 	cont "roost here."
 	done
 

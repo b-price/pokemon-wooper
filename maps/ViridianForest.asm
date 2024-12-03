@@ -180,7 +180,7 @@ ViridianForestSignText5:
 	text "Trainer Tips"
 
 	para "Poison-type #-"
-	line "mon can't be poi-"
+	line "er can't be poi-"
 	cont "soned themselves!"
 	done
 

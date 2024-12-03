@@ -240,7 +240,7 @@ CeladonUniversityClassroom4Rich_boyScript:
 	line "can't change."
 
 	para "But! If a #-"
-	line "mon holding an"
+	line "er holding an"
 
 	para "Ability Cap has"
 	line "an Egg, its baby"
