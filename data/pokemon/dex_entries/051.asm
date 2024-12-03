@@ -5,7 +5,7 @@ else
 	dw 204, 1430 ; height, width
 endc
 
-	db   "These Diglett"
+	db   "These #mon"
 	next "triplets dig over"
 	next "60 miles below sea"
 	page "level. No one"

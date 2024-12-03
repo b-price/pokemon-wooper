@@ -6,4 +6,4 @@
 	next "secreted from its"
 	page "tail is predeter-"
 	next "mined for each"
-	next "Smeargle.@"
+	next "#mon.@"

@@ -4,6 +4,6 @@
 	db   "Its outstanding"
 	next "vision allows it"
 	next "to spot splashing"
-	page "Magikarp, even"
+	page "prey, even"
 	next "while flying at"
 	next "3300 feet.@"

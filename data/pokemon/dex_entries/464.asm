@@ -3,7 +3,7 @@
 
 	db   "From holes in its"
 	next "palms, it fires"
-	next "out Geodude. Its"
+	next "out #mon. Its"
 	page "carapace can with-"
 	next "stand volcanic"
 	next "eruptions.@"
