@@ -26,15 +26,20 @@ Or build it yourself, see [INSTALL.md](INSTALL.md).
 
 ## Screenshots
 
-![title](screenshots/title.png)
-![menu](screenshots/menu.png)
-![battle](screenshots/battle.png)
-![stats](screenshots/stats.png)
+<img src="screenshots/title.png" alt="Wooper Title Screen" width="160" height="144"/>
+<img src="screenshots/menu.png" alt="Wooper Menu Screen" width="160" height="144"/>
+<img src="screenshots/battle.png" alt="Wooper Battle Screen" width="160" height="144"/>
+<img src="screenshots/stats.png" alt="Wooper Stats Screen" width="160" height="144"/>
+
+<img src="screenshots/ruins.png" alt="Wooper Statue" width="160" height="144"/>
+<img src="screenshots/woopertower.png" alt="Wooper Tower" width="160" height="144"/>
+<img src="screenshots/wooperscave.png" alt="Wooper's Cave'" width="160" height="144"/>
+<img src="screenshots/slots.png" alt="Wooper Slots" width="160" height="144"/>
+
+<img src="screenshots/room.png" alt="Wooper Room" width="160" height="144"/>
+<img src="screenshots/woopfan.png" alt="Wooper Title Screen" width="160" height="144"/>
   
-![ruins](screenshots/ruins.png)
-![woopertower](screenshots/woopertower.png)
-![wooperscave](screenshots/wooperscave.png)
-![slots](screenshots/slots.png)
+
   
-![room](screenshots/room.png)
+
 
