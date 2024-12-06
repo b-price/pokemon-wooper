@@ -316,19 +316,19 @@ _LookTownMapText::
 SECTION "_LookPikachuPosterText", ROMX
 _LookPikachuPosterText::
 	text "It's a poster of a"
-	line "cute Pikachu."
+	line "cute #mon."
 	done
 
 SECTION "_LookClefairyPosterText", ROMX
 _LookClefairyPosterText::
 	text "It's a poster of a"
-	line "cute Clefairy."
+	line "cute #mon."
 	done
 
 SECTION "_LookJigglypuffPosterText", ROMX
 _LookJigglypuffPosterText::
 	text "It's a poster of a"
-	line "cute Marill."
+	line "cute #mon."
 	done
 
 SECTION "_LookAdorableDecoText", ROMX

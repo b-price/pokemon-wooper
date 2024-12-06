@@ -11,7 +11,7 @@ endc
 	db ALWAYS_ITEM_2 ; item 1
 	db LUM_BERRY ; item 2
 	dn GENDER_UNKNOWN, 15 ; gender ratio, step cycles to hatch
-	dn 5 , 5 ; frontpic dimensions
+	INCBIN "gfx/pokemon/celebi/front.dimensions" ;dn 5 , 5  frontpic dimensions
 if DEF(FAITHFUL)
 	abilities_for CELEBI, NATURAL_CURE, NATURAL_CURE, NATURAL_CURE
 else

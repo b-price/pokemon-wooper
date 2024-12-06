@@ -256,7 +256,7 @@ BuenaPhonePikachuFanClubText:
 	para "taking part in my"
 	line "Password show."
 
-	para "But when Pikachu"
+	para "But when #mon"
 	line "was the password,"
 
 	para "it was uh… whew…"
@@ -266,7 +266,7 @@ BuenaPhonePikachuFanClubText:
 	line "came in out in"
 
 	para "droves, shouting"
-	line "“Pikachu!” over"
+	line "“#mon!” over"
 
 	para "and over. I mean,"
 	line "they were loud."
@@ -367,19 +367,19 @@ BuenaPhoneStarterPokemonText:
 	line "the first #mon"
 
 	para "Mary caught was a"
-	line "Drowzee?"
+	line "#mon?"
 
 	para "Isn't that so out"
 	line "of character?"
 
-	para "But Mary's Drowzee"
+	para "But Mary's #mon"
 	line "kept making her"
 
 	para "fall asleep on the"
 	line "job, so she traded"
 
 	para "with a fan for a"
-	line "Meowth."
+	line "#mon."
 
 	para "Let's chat about"
 	line "#mon again!"

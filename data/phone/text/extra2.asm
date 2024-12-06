@@ -225,9 +225,9 @@ BeverlyMadeMonEvenCuterText:
 BeverlyDefeatedMonText:
 	text "I happened to come"
 	line "across a wild"
-	cont "Snubbull recently."
+	cont "#mon recently."
 
-	para "My Snubbull, I"
+	para "My #mon, I"
 	line "assure you, was"
 
 	para "far cuter than the"
@@ -236,7 +236,7 @@ BeverlyDefeatedMonText:
 
 BeverlyLostAMonText:
 	text "I happened to see"
-	line "a wild Marill the"
+	line "a wild #mon the"
 
 	para "other day."
 	line "Or so I thought."
@@ -1061,7 +1061,7 @@ RalphNoItemText:
 
 	para "Recently, all I've"
 	line "been catching are"
-	cont "Magikarp, though…"
+	cont "#mon, though…"
 	done
 
 RalphReminderText:
@@ -1083,7 +1083,7 @@ RalphHurryText:
 
 	para "Aren't you coming"
 	line "over to fish for"
-	cont "Qwilfish?"
+	cont "#mon?"
 
 	para "I'm on ROUTE 32,"
 	line "so hurry up!"
@@ -1231,7 +1231,7 @@ LizSurfPikachuGossipText:
 	para "But I can't seem"
 	line "to get a hold of a"
 
-	para "Surf Pikachu Doll."
+	para "Surf #mon Doll."
 	line "None of my friends"
 
 	para "have it. It must"
@@ -1318,12 +1318,12 @@ LizBugCatchingContestGossipText:
 
 	para "I did once, but"
 	line "all I could catch"
-	cont "was a Caterpie."
+	cont "was a #mon."
 
 	para "But guess what!"
 
 	para "I won with that"
-	line "Caterpie. Isn't"
+	line "#mon. Isn't"
 	cont "that great?"
 	done
 
@@ -1522,14 +1522,14 @@ AnthonyReminderText:
 
 AnthonyHurryText:
 	text "Hello? What? Where"
-	line "is Dunsparce?"
+	line "is #mon?"
 
 	para "Dark Cave! Hurry!"
 
 	para "I know I've said"
 	line "it before, but"
 
-	para "Dunsparce don't"
+	para "#mon don't"
 	line "appear when there"
 
 	para "are strong #mon"

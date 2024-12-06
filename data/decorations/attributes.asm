@@ -40,7 +40,7 @@ DecorationAttributes:
 	decoration DECO_PLANT,    PUT_IT_AWAY,       PUT_AWAY_DOLL,      EVENT_TEMPORARY_UNTIL_MAP_RELOAD_1, 0
 	decoration DECO_DOLL,     PIKACHU,           SET_UP_DOLL,        EVENT_DECO_PIKACHU_DOLL,            SPRITE_MON_DOLL_1
 	decoration DECO_DOLL,     RAICHU,            SET_UP_DOLL,        EVENT_DECO_RAICHU_DOLL,             SPRITE_MON_DOLL_1
-	decoration DECO_PLANT,    WOOPER        ,    SET_UP_DOLL,        EVENT_DECO_SURFING_PIKACHU_DOLL,    SPRITE_MON_DOLL_1
+	decoration DECO_DOLL,     WOOPER,            SET_UP_DOLL,        EVENT_DECO_SURFING_PIKACHU_DOLL,    SPRITE_MON_DOLL_1
 	decoration DECO_DOLL,     CLEFAIRY,          SET_UP_DOLL,        EVENT_DECO_CLEFAIRY_DOLL,           SPRITE_MON_DOLL_1
 	decoration DECO_DOLL,     JIGGLYPUFF,        SET_UP_DOLL,        EVENT_DECO_JIGGLYPUFF_DOLL,         SPRITE_MON_DOLL_1
 	decoration DECO_DOLL,     BULBASAUR,         SET_UP_DOLL,        EVENT_DECO_BULBASAUR_DOLL,          SPRITE_MON_DOLL_1

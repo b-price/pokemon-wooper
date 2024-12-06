@@ -4,7 +4,7 @@ DefaultOptions3:
 
 DefaultOptions:
 ; wOptions1
-	db (1 << BATTLE_EFFECTS) | (1 << STEREO) | FAST_TEXT
+	db (1 << BATTLE_EFFECTS) | (1 << STEREO) | INST_TEXT
 ; wSaveFileExists
 	db FALSE
 ; wTextboxFrame
@@ -14,6 +14,6 @@ DefaultOptions:
 ; wOptions2
 	db 0
 ; wInitialOptions
-	db (1 << NATURES_OPT) | (1 << ABILITIES_OPT) | (1 << PSS_OPT) | (1 << COLOR_VARY_OPT)
+	db (1 << NATURES_OPT) | (1 << ABILITIES_OPT) | (1 << PSS_OPT)
 ; wInitialOptions2
 	db 0

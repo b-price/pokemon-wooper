@@ -27,3 +27,8 @@ bank_ends.txt
 # local tools
 rgbds/
 deploy.sh
+
+builds/
+material/
+patches/
+venv/

@@ -160,7 +160,7 @@ IrwinSnorlaxGossipText:
 	text "I saw, I saw!"
 
 	para "You waking up"
-	line "Snorlax!"
+	line "#mon!"
 
 	para "I was watching you"
 	line "from afar, so I"
@@ -390,7 +390,7 @@ ArnieHurryText:
 	line "coming or what?"
 
 	para "You're missing out"
-	line "on seeing Yanma!"
+	line "on seeing #mon!"
 
 	para "Get down to Route"
 	line "35 right now!"
@@ -867,7 +867,7 @@ DerekCheekPinchingText:
 
 DerekDefeatedMonText:
 	text "Oh, and recently,"
-	line "my Pikachu beat a"
+	line "my #mon beat a"
 	cont "wild "
 	text_ram wStringBuffer4
 	text "!"
@@ -880,10 +880,10 @@ DerekDefeatedMonText:
 	para "Don't you think"
 	line "that's astounding?"
 
-	para "My Pikachu is"
+	para "My #mon is"
 	line "awesome!"
 
-	para "My Pikachu is the"
+	para "My #mon is the"
 	line "greatest!"
 	done
 
@@ -920,7 +920,7 @@ DerekBugCatchingContestText:
 	para "I think I'll"
 	line "participate with"
 
-	para "Pikachu to show"
+	para "#mon to show"
 	line "off its cuteness."
 	done
 
@@ -928,21 +928,21 @@ DerekFoundItemText:
 	text "I'd like you to"
 	line "have a Nugget."
 
-	para "My Pikachu just"
+	para "My #mon just"
 	line "loves it."
 
 	para "I'm certain your"
-	line "Pikachu will love"
+	line "#mon will love"
 	cont "it too!"
 	done
 
 DerekLetsGetTogetherText:
 	text "How is your"
-	line "Pikachu doing?"
+	line "#mon doing?"
 
 	para "Let's get together"
 	line "and brag about our"
-	cont "Pikachu!"
+	cont "#mon!"
 	done
 
 DerekComePickUpText:
@@ -1159,7 +1159,7 @@ BrentRoute25GossipText:
 
 BrentAbraGossipText:
 	text "Did you know…?"
-	line "Abra was the first"
+	line "#mon was the first"
 
 	para "#mon that Bill"
 	line "ostensibly caught."
@@ -1248,7 +1248,7 @@ TiffanyDefeatedMonText:
 	text " a while"
 	line "ago…"
 
-	para "My Clefairy came"
+	para "My #mon came"
 	line "close to fainting!"
 
 	para "Isn't that awful?"
@@ -1268,7 +1268,7 @@ TiffanyLostAMonText:
 	text " a while"
 	line "ago…"
 
-	para "My Clefairy got"
+	para "My #mon got"
 	line "frightened, so we"
 
 	para "ran away as fast"
@@ -1276,7 +1276,7 @@ TiffanyLostAMonText:
 
 	para "I just can't help"
 	line "feeling protective"
-	cont "of my Clefairy."
+	cont "of my #mon."
 	done
 
 TiffanyBattleRematchText:
@@ -1287,7 +1287,7 @@ TiffanyBattleRematchText:
 	line "battle?"
 
 	para "I'll be waiting"
-	line "with Clefairy on"
+	line "with #mon on"
 	cont ""
 	text_ram wStringBuffer5
 	text "."
@@ -1298,7 +1298,7 @@ TiffanyItsAwfulText:
 	text "!"
 
 	para "It's awful."
-	line "My Clefairy…"
+	line "My #mon…"
 
 	para "Huh? <PLAYER>?"
 
@@ -1318,7 +1318,7 @@ TiffanyFoundItemText:
 	line "Bows at Goldenrod"
 
 	para "Dept.Store for my"
-	line "Clefairy."
+	line "#mon."
 
 	para "I got too many, so"
 	line "I'll give you one!"
@@ -1331,14 +1331,14 @@ TiffanyFoundItemText:
 
 TiffanyNoItemText:
 	text "I love dressing up"
-	line "my Clefairy!"
+	line "my #mon!"
 	done
 
 TiffanyAsleepText:
 	text "What's wrong?"
 	line "Can't you visit?"
 
-	para "Clefairy got tired"
+	para "#mon got tired"
 	line "and fell asleep."
 
 	para "I'm not sure if I"
@@ -1356,7 +1356,7 @@ TiffanyHurryText:
 
 	para "I'm sure this will"
 	line "look good on your"
-	cont "Clefairy."
+	cont "#mon."
 
 	para "Please hurry to"
 	line ""

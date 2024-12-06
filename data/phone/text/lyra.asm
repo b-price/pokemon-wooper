@@ -71,7 +71,7 @@ LyraPhoneFirstBadgeText:
 	para "I just got my"
 	line "first Gym Badge!"
 
-	para "Falkner's Pidgeot"
+	para "Falkner's #mon"
 	line "is strong, but"
 	cont "mine beat him!"
 
@@ -103,12 +103,12 @@ LyraPhoneLyrasEggIntroText:
 	done
 
 LyraPhoneLyrasEggChikoritaText:
-	text "I left my Chicory"
+	text "I left my Greenboi"
 	line "at the Day-Care"
 	done
 
 LyraPhoneLyrasEggCyndaquilText:
-	text "I left my Cinder"
+	text "I left my Redboi"
 	line "at the Day-Care"
 	done
 
@@ -145,7 +145,7 @@ LyraPhoneLyrasEggEndText:
 
 LyraPhoneMagnetonText:
 	text "What? You have a"
-	line "Magneton now?"
+	line "#mon now?"
 	cont "That's so cool!"
 
 	para "I learned some-"

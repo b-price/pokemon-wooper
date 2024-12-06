@@ -4,7 +4,7 @@
 ItemNames::
 	list_start ItemNames
 	li "Park Ball"
-	li "Poké Ball"
+	li "Woop Ball"
 	li "Great Ball"
 	li "Ultra Ball"
 	li "Master Ball"
@@ -86,7 +86,7 @@ endc
 	li "Super Repel"
 	li "Max Repel"
 	li "Escape Rope"
-	li "Poké Doll"
+	li "Woop Doll"
 	li "Ability Cap"
 	li "Leaf Stone"
 	li "Fire Stone"

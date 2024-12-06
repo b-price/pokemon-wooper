@@ -1,14 +1,14 @@
 DerekAskNumber1Text:
-	text "Oh, wow! Pikachu!"
+	text "Oh, wow! #mon!"
 	line "It's so soft and"
 	cont "furry! How cute!"
 
 	para "Let's be friends!"
-	line "Pikachu-lovers are"
+	line "#mon-lovers are"
 	cont "never bad people!"
 
 	para "Let's chat about"
-	line "Pikachu!"
+	line "#mon!"
 
 	para "Can I get your"
 	line "phone number?"
@@ -16,14 +16,14 @@ DerekAskNumber1Text:
 
 DerekAskNumber2Text:
 	text "Let's chat about"
-	line "Pikachu!"
+	line "#mon!"
 
 	para "Can I get your"
 	line "phone number?"
 	done
 
 DerekNumberAcceptedText:
-	text "Pikachu is the"
+	text "#mon is the"
 	line "one! If anything"
 
 	para "comes up, I'll"
@@ -34,7 +34,7 @@ DerekNumberDeclinedText:
 	text "You…"
 
 	para "I bet you don't"
-	line "even like Pikachu…"
+	line "even like #mon…"
 	done
 
 DerekPhoneFullText:
@@ -48,7 +48,7 @@ DerekGiftText:
 	cont "this? This is it!"
 
 	para "I'm certain your"
-	line "Pikachu will love"
+	line "#mon will love"
 	cont "my gift too!"
 	done
 

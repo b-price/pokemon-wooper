@@ -64,5 +64,5 @@ UnusedSweetHoneyAfterText3:
 	done
 
 UnusedSweetHoneyButterfreeText:
-	text "Butterfree: Freeh!"
+	text "#mon: Ooopa!"
 	done

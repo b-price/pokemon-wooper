@@ -249,8 +249,8 @@ endr
 	loadmem wPartyMon3PP+1, 15
 	loadmem wPartyMon3PP+2, 15
 	loadmem wPartyMon3PP+3, 15
-	; variant form test
-	givepoke SLOWKING, GALARIAN_FORM, 50
+	; variant form test;
+	givepoke HO_OH, NO_FORM, 50
 ;	givepoke ARTICUNO, GALARIAN_FORM, 50
 ;	givepoke ZAPDOS, GALARIAN_FORM, 50
 ;	givepoke MOLTRES, GALARIAN_FORM, 50
